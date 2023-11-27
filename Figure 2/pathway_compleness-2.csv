@@ -1,0 +1,913 @@
+﻿rank,Module,compleness,group,annotation,func
+1,M00740,0.636363636,Lach,"Alanine, aspartate and glutamate metabolism",Amino acid metabolism
+2,M00740,0.636363636,Lach,"Alanine, aspartate and glutamate metabolism",Amino acid metabolism
+3,M00027,1,Lach,"Alanine, aspartate and glutamate metabolism",Amino acid metabolism
+4,M00047,0,Lach,Arginine and proline metabolism,Amino acid metabolism
+5,M00136,0.5,Lach,Arginine and proline metabolism,Amino acid metabolism
+6,M00135,0.666666667,Lach,Arginine and proline metabolism,Amino acid metabolism
+7,M00015,1,Lach,Arginine and proline metabolism,Amino acid metabolism
+8,M00133,1,Lach,Arginine and proline metabolism,Amino acid metabolism
+9,M00134,1,Lach,Arginine and proline metabolism,Amino acid metabolism
+10,M00763,0.2,Lach,Arginine biosynthesis,Amino acid metabolism
+11,M00763,0.2,Lach,Arginine biosynthesis,Amino acid metabolism
+12,M00845,0.714285714,Lach,Arginine biosynthesis,Amino acid metabolism
+13,M00845,0.714285714,Lach,Arginine biosynthesis,Amino acid metabolism
+14,M00029,0.8,Lach,Arginine biosynthesis,Amino acid metabolism
+15,M00028,1,Lach,Arginine biosynthesis,Amino acid metabolism
+16,M00844,1,Lach,Arginine biosynthesis,Amino acid metabolism
+17,M00844,1,Lach,Arginine biosynthesis,Amino acid metabolism
+18,M00368,0.333333333,Lach,Cysteine and methionine metabolism,Amino acid metabolism
+19,M00609,0.666666667,Lach,Cysteine and methionine metabolism,Amino acid metabolism
+20,M00034,0.875,Lach,Cysteine and methionine metabolism,Amino acid metabolism
+21,M00017,1,Lach,Cysteine and methionine metabolism,Amino acid metabolism
+22,M00021,1,Lach,Cysteine and methionine metabolism,Amino acid metabolism
+23,M00035,1,Lach,Cysteine and methionine metabolism,Amino acid metabolism
+24,M00338,1,Lach,Cysteine and methionine metabolism,Amino acid metabolism
+25,M00018,1,Lach,"Glycine, serine and threonine metabolism",Amino acid metabolism
+26,M00020,1,Lach,"Glycine, serine and threonine metabolism",Amino acid metabolism
+27,M00033,1,Lach,"Glycine, serine and threonine metabolism",Amino acid metabolism
+28,M00338,1,Lach,"Glycine, serine and threonine metabolism",Amino acid metabolism
+29,M00555,1,Lach,"Glycine, serine and threonine metabolism",Amino acid metabolism
+30,M00026,1,Lach,Histidine metabolism,Amino acid metabolism
+31,M00045,1,Lach,Histidine metabolism,Amino acid metabolism
+32,M00030,0.125,Lach,Lysine biosynthesis,Amino acid metabolism
+33,M00433,0,Lach,Lysine biosynthesis,Amino acid metabolism
+34,M00608,0,Lach,Lysine biosynthesis,Amino acid metabolism
+35,M00031,0.2,Lach,Lysine biosynthesis,Amino acid metabolism
+36,M00016,1,Lach,Lysine biosynthesis,Amino acid metabolism
+37,M00525,1,Lach,Lysine biosynthesis,Amino acid metabolism
+38,M00526,1,Lach,Lysine biosynthesis,Amino acid metabolism
+39,M00527,1,Lach,Lysine biosynthesis,Amino acid metabolism
+40,M00032,0.583333333,Lach,Lysine degradation,Amino acid metabolism
+41,M00040,0.5,Lach,"Phenylalanine, tyrosine and tryptophan biosynthesis",Amino acid metabolism
+42,M00022,1,Lach,"Phenylalanine, tyrosine and tryptophan biosynthesis",Amino acid metabolism
+43,M00023,1,Lach,"Phenylalanine, tyrosine and tryptophan biosynthesis",Amino acid metabolism
+44,M00024,1,Lach,"Phenylalanine, tyrosine and tryptophan biosynthesis",Amino acid metabolism
+45,M00025,1,Lach,"Phenylalanine, tyrosine and tryptophan biosynthesis",Amino acid metabolism
+46,M00370,0,Lach,Tryptophan metabolism,Amino acid metabolism
+47,M00037,0.5,Lach,Tryptophan metabolism,Amino acid metabolism
+48,M00038,0.714285714,Lach,Tryptophan metabolism,Amino acid metabolism
+49,M00043,0,Lach,Tyrosine metabolism,Amino acid metabolism
+50,M00042,0.5,Lach,Tyrosine metabolism,Amino acid metabolism
+51,M00044,0,Lach,Tyrosine metabolism,Amino acid metabolism
+52,M00533,0.5,Lach,Tyrosine metabolism,Amino acid metabolism
+53,M00535,0.666666667,Lach,"Valine, leucine and isoleucine biosynthesis",Amino acid metabolism
+54,M00019,1,Lach,"Valine, leucine and isoleucine biosynthesis",Amino acid metabolism
+55,M00432,1,Lach,"Valine, leucine and isoleucine biosynthesis",Amino acid metabolism
+56,M00570,1,Lach,"Valine, leucine and isoleucine biosynthesis",Amino acid metabolism
+57,M00741,0.666666667,Lach,"Valine, leucine and isoleucine degradation",Amino acid metabolism
+58,M00741,0.666666667,Lach,"Valine, leucine and isoleucine degradation",Amino acid metabolism
+59,M00036,0.833333333,Lach,"Valine, leucine and isoleucine degradation",Amino acid metabolism
+60,M00814,0.375,Lach,Acarbose and validamycin biosynthesis,Biosynthesis of other secondary metabolites
+61,M00814,0.375,Lach,Acarbose and validamycin biosynthesis,Biosynthesis of other secondary metabolites
+62,M00815,0.444444444,Lach,Acarbose and validamycin biosynthesis,Biosynthesis of other secondary metabolites
+63,M00815,0.444444444,Lach,Acarbose and validamycin biosynthesis,Biosynthesis of other secondary metabolites
+64,M00785,0,Lach,Biosynthesis of various antibiotics Title changed!,Biosynthesis of other secondary metabolites
+65,M00788,0,Lach,Biosynthesis of various antibiotics Title changed!,Biosynthesis of other secondary metabolites
+66,M00785,0,Lach,Biosynthesis of various antibiotics Title changed!,Biosynthesis of other secondary metabolites
+67,M00788,0,Lach,Biosynthesis of various antibiotics Title changed!,Biosynthesis of other secondary metabolites
+68,M00819,0,Lach,Biosynthesis of various antibiotics Title changed!,Biosynthesis of other secondary metabolites
+69,M00819,0,Lach,Biosynthesis of various antibiotics Title changed!,Biosynthesis of other secondary metabolites
+70,M00848,0.125,Lach,Biosynthesis of various antibiotics Title changed!,Biosynthesis of other secondary metabolites
+71,M00848,0.125,Lach,Biosynthesis of various antibiotics Title changed!,Biosynthesis of other secondary metabolites
+72,M00787,0.5,Lach,Biosynthesis of various antibiotics Title changed!,Biosynthesis of other secondary metabolites
+73,M00787,0.5,Lach,Biosynthesis of various antibiotics Title changed!,Biosynthesis of other secondary metabolites
+74,M00877,0.333333333,Lach,Biosynthesis of various antibiotics Title changed!,Biosynthesis of other secondary metabolites
+75,M00877,0.333333333,Lach,Biosynthesis of various antibiotics Title changed!,Biosynthesis of other secondary metabolites
+76,M00875,0.285714286,Lach,Biosynthesis of various other secondary metabolites Title changed!,Biosynthesis of other secondary metabolites
+77,M00875,0.285714286,Lach,Biosynthesis of various other secondary metabolites Title changed!,Biosynthesis of other secondary metabolites
+78,M00876,0.333333333,Lach,Biosynthesis of various other secondary metabolites Title changed!,Biosynthesis of other secondary metabolites
+79,M00876,0.333333333,Lach,Biosynthesis of various other secondary metabolites Title changed!,Biosynthesis of other secondary metabolites
+80,M00675,0,Lach,Carbapenem biosynthesis,Biosynthesis of other secondary metabolites
+81,M00675,0,Lach,Carbapenem biosynthesis,Biosynthesis of other secondary metabolites
+82,M00674,0,Lach,Clavulanic acid biosynthesis,Biosynthesis of other secondary metabolites
+83,M00674,0,Lach,Clavulanic acid biosynthesis,Biosynthesis of other secondary metabolites
+84,M00138,0,Lach,Flavonoid biosynthesis,Biosynthesis of other secondary metabolites
+85,M00137,0,Lach,Flavonoid biosynthesis,Biosynthesis of other secondary metabolites
+86,M00370,0,Lach,Glucosinolate biosynthesis,Biosynthesis of other secondary metabolites
+87,M00661,0,Lach,Indole diterpene alkaloid biosynthesis,Biosynthesis of other secondary metabolites
+88,M00661,0,Lach,Indole diterpene alkaloid biosynthesis,Biosynthesis of other secondary metabolites
+89,M00736,0,Lach,Monobactam biosynthesis,Biosynthesis of other secondary metabolites
+90,M00736,0,Lach,Monobactam biosynthesis,Biosynthesis of other secondary metabolites
+91,M00673,0,Lach,Penicillin and cephalosporin biosynthesis,Biosynthesis of other secondary metabolites
+92,M00673,0,Lach,Penicillin and cephalosporin biosynthesis,Biosynthesis of other secondary metabolites
+93,M00672,0,Lach,Penicillin and cephalosporin biosynthesis,Biosynthesis of other secondary metabolites
+94,M00672,0,Lach,Penicillin and cephalosporin biosynthesis,Biosynthesis of other secondary metabolites
+95,M00835,0.285714286,Lach,Phenazine biosynthesis,Biosynthesis of other secondary metabolites
+96,M00835,0.285714286,Lach,Phenazine biosynthesis,Biosynthesis of other secondary metabolites
+97,M00039,0,Lach,Phenylpropanoid biosynthesis,Biosynthesis of other secondary metabolites
+98,M00137,0,Lach,Phenylpropanoid biosynthesis,Biosynthesis of other secondary metabolites
+99,M00837,0,Lach,Prodigiosin biosynthesis,Biosynthesis of other secondary metabolites
+100,M00838,0,Lach,Prodigiosin biosynthesis,Biosynthesis of other secondary metabolites
+101,M00837,0,Lach,Prodigiosin biosynthesis,Biosynthesis of other secondary metabolites
+102,M00838,0,Lach,Prodigiosin biosynthesis,Biosynthesis of other secondary metabolites
+103,M00786,0,Lach,Staurosporine biosynthesis,Biosynthesis of other secondary metabolites
+104,M00805,0,Lach,Staurosporine biosynthesis,Biosynthesis of other secondary metabolites
+105,M00786,0,Lach,Staurosporine biosynthesis,Biosynthesis of other secondary metabolites
+106,M00805,0,Lach,Staurosporine biosynthesis,Biosynthesis of other secondary metabolites
+107,M00789,0,Lach,Staurosporine biosynthesis,Biosynthesis of other secondary metabolites
+108,M00789,0,Lach,Staurosporine biosynthesis,Biosynthesis of other secondary metabolites
+109,M00790,0,Lach,Staurosporine biosynthesis,Biosynthesis of other secondary metabolites
+110,M00808,0,Lach,Staurosporine biosynthesis,Biosynthesis of other secondary metabolites
+111,M00790,0,Lach,Staurosporine biosynthesis,Biosynthesis of other secondary metabolites
+112,M00808,0,Lach,Staurosporine biosynthesis,Biosynthesis of other secondary metabolites
+113,M00793,1,Lach,Streptomycin biosynthesis,Biosynthesis of other secondary metabolites
+114,M00793,1,Lach,Streptomycin biosynthesis,Biosynthesis of other secondary metabolites
+115,M00761,0.5,Lach,Amino sugar and nucleotide sugar metabolism,Carbohydrate metabolism
+116,M00761,0.5,Lach,Amino sugar and nucleotide sugar metabolism,Carbohydrate metabolism
+117,M00549,1,Lach,Amino sugar and nucleotide sugar metabolism,Carbohydrate metabolism
+118,M00554,1,Lach,Amino sugar and nucleotide sugar metabolism,Carbohydrate metabolism
+119,M00114,0.285714286,Lach,Ascorbate and aldarate metabolism,Carbohydrate metabolism
+120,M00129,0.714285714,Lach,Ascorbate and aldarate metabolism,Carbohydrate metabolism
+121,M00550,1,Lach,Ascorbate and aldarate metabolism,Carbohydrate metabolism
+122,M00027,1,Lach,Butanoate metabolism,Carbohydrate metabolism
+123,M00088,1,Lach,Butanoate metabolism,Carbohydrate metabolism
+124,M00535,0.666666667,Lach,C5-Branched dibasic acid metabolism,Carbohydrate metabolism
+125,M00740,0.636363636,Lach,Citrate cycle (TCA cycle),Carbohydrate metabolism
+126,M00740,0.636363636,Lach,Citrate cycle (TCA cycle),Carbohydrate metabolism
+127,M00003,1,Lach,Citrate cycle (TCA cycle),Carbohydrate metabolism
+128,M00009,1,Lach,Citrate cycle (TCA cycle),Carbohydrate metabolism
+129,M00010,1,Lach,Citrate cycle (TCA cycle),Carbohydrate metabolism
+130,M00011,1,Lach,Citrate cycle (TCA cycle),Carbohydrate metabolism
+131,M00307,1,Lach,Citrate cycle (TCA cycle),Carbohydrate metabolism
+132,M00114,0.285714286,Lach,Fructose and mannose metabolism,Carbohydrate metabolism
+133,M00633,0.25,Lach,Galactose metabolism,Carbohydrate metabolism
+134,M00633,0.25,Lach,Galactose metabolism,Carbohydrate metabolism
+135,M00309,0.666666667,Lach,Galactose metabolism,Carbohydrate metabolism
+136,M00552,1,Lach,Galactose metabolism,Carbohydrate metabolism
+137,M00554,1,Lach,Galactose metabolism,Carbohydrate metabolism
+138,M00632,1,Lach,Galactose metabolism,Carbohydrate metabolism
+139,M00632,1,Lach,Galactose metabolism,Carbohydrate metabolism
+140,M00001,1,Lach,Glycolysis / Gluconeogenesis,Carbohydrate metabolism
+141,M00002,1,Lach,Glycolysis / Gluconeogenesis,Carbohydrate metabolism
+142,M00003,1,Lach,Glycolysis / Gluconeogenesis,Carbohydrate metabolism
+143,M00307,1,Lach,Glycolysis / Gluconeogenesis,Carbohydrate metabolism
+144,M00740,0.636363636,Lach,Glyoxylate and dicarboxylate metabolism,Carbohydrate metabolism
+145,M00740,0.636363636,Lach,Glyoxylate and dicarboxylate metabolism,Carbohydrate metabolism
+146,M00012,0.6,Lach,Glyoxylate and dicarboxylate metabolism,Carbohydrate metabolism
+147,M00373,0.666666667,Lach,Glyoxylate and dicarboxylate metabolism,Carbohydrate metabolism
+148,M00741,0.666666667,Lach,Glyoxylate and dicarboxylate metabolism,Carbohydrate metabolism
+149,M00741,0.666666667,Lach,Glyoxylate and dicarboxylate metabolism,Carbohydrate metabolism
+150,M00532,1,Lach,Glyoxylate and dicarboxylate metabolism,Carbohydrate metabolism
+151,M00130,0,Lach,Inositol phosphate metabolism,Carbohydrate metabolism
+152,M00132,0,Lach,Inositol phosphate metabolism,Carbohydrate metabolism
+153,M00131,0.25,Lach,Inositol phosphate metabolism,Carbohydrate metabolism
+154,M00630,0,Lach,Pentose and glucuronate interconversions,Carbohydrate metabolism
+155,M00630,0,Lach,Pentose and glucuronate interconversions,Carbohydrate metabolism
+156,M00014,0.5625,Lach,Pentose and glucuronate interconversions,Carbohydrate metabolism
+157,M00129,0.714285714,Lach,Pentose and glucuronate interconversions,Carbohydrate metabolism
+158,M00061,1,Lach,Pentose and glucuronate interconversions,Carbohydrate metabolism
+159,M00081,1,Lach,Pentose and glucuronate interconversions,Carbohydrate metabolism
+160,M00631,1,Lach,Pentose and glucuronate interconversions,Carbohydrate metabolism
+161,M00631,1,Lach,Pentose and glucuronate interconversions,Carbohydrate metabolism
+162,M00633,0.25,Lach,Pentose phosphate pathway,Carbohydrate metabolism
+163,M00633,0.25,Lach,Pentose phosphate pathway,Carbohydrate metabolism
+164,M00309,0.666666667,Lach,Pentose phosphate pathway,Carbohydrate metabolism
+165,M00008,0.75,Lach,Pentose phosphate pathway,Carbohydrate metabolism
+166,M00308,0.75,Lach,Pentose phosphate pathway,Carbohydrate metabolism
+167,M00004,1,Lach,Pentose phosphate pathway,Carbohydrate metabolism
+168,M00005,1,Lach,Pentose phosphate pathway,Carbohydrate metabolism
+169,M00006,1,Lach,Pentose phosphate pathway,Carbohydrate metabolism
+170,M00007,1,Lach,Pentose phosphate pathway,Carbohydrate metabolism
+171,M00061,1,Lach,Pentose phosphate pathway,Carbohydrate metabolism
+172,M00345,1,Lach,Pentose phosphate pathway,Carbohydrate metabolism
+173,M00580,1,Lach,Pentose phosphate pathway,Carbohydrate metabolism
+174,M00631,1,Lach,Pentose phosphate pathway,Carbohydrate metabolism
+175,M00631,1,Lach,Pentose phosphate pathway,Carbohydrate metabolism
+176,M00013,0.4,Lach,Propanoate metabolism,Carbohydrate metabolism
+177,M00741,0.666666667,Lach,Propanoate metabolism,Carbohydrate metabolism
+178,M00741,0.666666667,Lach,Propanoate metabolism,Carbohydrate metabolism
+179,M00172,0.25,Lach,Pyruvate metabolism,Carbohydrate metabolism
+180,M00168,0.5,Lach,Pyruvate metabolism,Carbohydrate metabolism
+181,M00169,0.5,Lach,Pyruvate metabolism,Carbohydrate metabolism
+182,M00307,1,Lach,Pyruvate metabolism,Carbohydrate metabolism
+183,M00579,1,Lach,Pyruvate metabolism,Carbohydrate metabolism
+184,M00565,0.833333333,Lach,Starch and sucrose metabolism,Carbohydrate metabolism
+185,M00854,1,Lach,Starch and sucrose metabolism,Carbohydrate metabolism
+186,M00855,1,Lach,Starch and sucrose metabolism,Carbohydrate metabolism
+187,M00854,1,Lach,Starch and sucrose metabolism,Carbohydrate metabolism
+188,M00855,1,Lach,Starch and sucrose metabolism,Carbohydrate metabolism
+189,M00171,0.142857143,Lach,Carbon fixation in photosynthetic organisms,Energy metabolism
+190,M00170,0.25,Lach,Carbon fixation in photosynthetic organisms,Energy metabolism
+191,M00172,0.25,Lach,Carbon fixation in photosynthetic organisms,Energy metabolism
+192,M00168,0.5,Lach,Carbon fixation in photosynthetic organisms,Energy metabolism
+193,M00169,0.5,Lach,Carbon fixation in photosynthetic organisms,Energy metabolism
+194,M00167,0.857142857,Lach,Carbon fixation in photosynthetic organisms,Energy metabolism
+195,M00165,0.909090909,Lach,Carbon fixation in photosynthetic organisms,Energy metabolism
+196,M00166,1,Lach,Carbon fixation in photosynthetic organisms,Energy metabolism
+197,M00375,0.285714286,Lach,Carbon fixation pathways in prokaryotes,Energy metabolism
+198,M00374,0.615384615,Lach,Carbon fixation pathways in prokaryotes,Energy metabolism
+199,M00376,0.25,Lach,Carbon fixation pathways in prokaryotes,Energy metabolism
+200,M00173,0.9,Lach,Carbon fixation pathways in prokaryotes,Energy metabolism
+201,M00377,1,Lach,Carbon fixation pathways in prokaryotes,Energy metabolism
+202,M00579,1,Lach,Carbon fixation pathways in prokaryotes,Energy metabolism
+203,M00620,1,Lach,Carbon fixation pathways in prokaryotes,Energy metabolism
+204,M00344,0.5,Lach,Methane metabolism,Energy metabolism
+205,M00174,0,Lach,Methane metabolism,Energy metabolism
+206,M00378,0,Lach,Methane metabolism,Energy metabolism
+207,M00608,0,Lach,Methane metabolism,Energy metabolism
+208,M00358,0.25,Lach,Methane metabolism,Energy metabolism
+209,M00567,0.375,Lach,Methane metabolism,Energy metabolism
+210,M00422,0.5,Lach,Methane metabolism,Energy metabolism
+211,M00563,0.5,Lach,Methane metabolism,Energy metabolism
+212,M00357,0.6,Lach,Methane metabolism,Energy metabolism
+213,M00346,0.666666667,Lach,Methane metabolism,Energy metabolism
+214,M00356,0.666666667,Lach,Methane metabolism,Energy metabolism
+215,M00020,1,Lach,Methane metabolism,Energy metabolism
+216,M00345,1,Lach,Methane metabolism,Energy metabolism
+217,M00528,0,Lach,Nitrogen metabolism,Energy metabolism
+218,M00804,0,Lach,Nitrogen metabolism,Energy metabolism
+219,M00804,0,Lach,Nitrogen metabolism,Energy metabolism
+220,M00529,0.25,Lach,Nitrogen metabolism,Energy metabolism
+221,M00175,1,Lach,Nitrogen metabolism,Energy metabolism
+222,M00530,1,Lach,Nitrogen metabolism,Energy metabolism
+223,M00531,1,Lach,Nitrogen metabolism,Energy metabolism
+224,M00147,0,Lach,Oxidative phosphorylation,Energy metabolism
+225,M00142,0,Lach,Oxidative phosphorylation,Energy metabolism
+226,M00143,0,Lach,Oxidative phosphorylation,Energy metabolism
+227,M00145,0,Lach,Oxidative phosphorylation,Energy metabolism
+228,M00148,0,Lach,Oxidative phosphorylation,Energy metabolism
+229,M00151,0,Lach,Oxidative phosphorylation,Energy metabolism
+230,M00152,0,Lach,Oxidative phosphorylation,Energy metabolism
+231,M00153,0,Lach,Oxidative phosphorylation,Energy metabolism
+232,M00154,0,Lach,Oxidative phosphorylation,Energy metabolism
+233,M00156,0,Lach,Oxidative phosphorylation,Energy metabolism
+234,M00158,0,Lach,Oxidative phosphorylation,Energy metabolism
+235,M00160,0,Lach,Oxidative phosphorylation,Energy metabolism
+236,M00416,0,Lach,Oxidative phosphorylation,Energy metabolism
+237,M00417,0,Lach,Oxidative phosphorylation,Energy metabolism
+238,M00144,1,Lach,Oxidative phosphorylation,Energy metabolism
+239,M00146,1,Lach,Oxidative phosphorylation,Energy metabolism
+240,M00149,1,Lach,Oxidative phosphorylation,Energy metabolism
+241,M00150,1,Lach,Oxidative phosphorylation,Energy metabolism
+242,M00155,1,Lach,Oxidative phosphorylation,Energy metabolism
+243,M00157,1,Lach,Oxidative phosphorylation,Energy metabolism
+244,M00159,1,Lach,Oxidative phosphorylation,Energy metabolism
+245,M00161,0,Lach,Photosynthesis,Energy metabolism
+246,M00162,0,Lach,Photosynthesis,Energy metabolism
+247,M00163,0,Lach,Photosynthesis,Energy metabolism
+248,M00157,1,Lach,Photosynthesis,Energy metabolism
+249,M00596,0.666666667,Lach,Sulfur metabolism,Energy metabolism
+250,M00021,1,Lach,Sulfur metabolism,Energy metabolism
+251,M00176,1,Lach,Sulfur metabolism,Energy metabolism
+252,M00595,1,Lach,Sulfur metabolism,Energy metabolism
+253,M00058,0,Lach,Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate,Glycan biosynthesis and metabolism
+254,M00057,0,Lach,Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate,Glycan biosynthesis and metabolism
+255,M00057,0,Lach,Glycosaminoglycan biosynthesis - heparan sulfate / heparin,Glycan biosynthesis and metabolism
+256,M00059,0,Lach,Glycosaminoglycan biosynthesis - heparan sulfate / heparin,Glycan biosynthesis and metabolism
+257,M00079,0.4,Lach,Glycosaminoglycan degradation,Glycan biosynthesis and metabolism
+258,M00076,0.333333333,Lach,Glycosaminoglycan degradation,Glycan biosynthesis and metabolism
+259,M00078,0.444444444,Lach,Glycosaminoglycan degradation,Glycan biosynthesis and metabolism
+260,M00077,0.5,Lach,Glycosaminoglycan degradation,Glycan biosynthesis and metabolism
+261,M00069,0,Lach,Glycosphingolipid biosynthesis - ganglio series,Glycan biosynthesis and metabolism
+262,M00068,0,Lach,Glycosphingolipid biosynthesis - globo and isoglobo series,Glycan biosynthesis and metabolism
+263,M00070,0,Lach,Glycosphingolipid biosynthesis - lacto and neolacto series,Glycan biosynthesis and metabolism
+264,M00071,0,Lach,Glycosphingolipid biosynthesis - lacto and neolacto series,Glycan biosynthesis and metabolism
+265,M00065,0,Lach,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis,Glycan biosynthesis and metabolism
+266,M00867,0,Lach,Lipopolysaccharide biosynthesis,Glycan biosynthesis and metabolism
+267,M00867,0,Lach,Lipopolysaccharide biosynthesis,Glycan biosynthesis and metabolism
+268,M00060,0.222222222,Lach,Lipopolysaccharide biosynthesis,Glycan biosynthesis and metabolism
+269,M00866,0.333333333,Lach,Lipopolysaccharide biosynthesis,Glycan biosynthesis and metabolism
+270,M00866,0.333333333,Lach,Lipopolysaccharide biosynthesis,Glycan biosynthesis and metabolism
+271,M00063,1,Lach,Lipopolysaccharide biosynthesis,Glycan biosynthesis and metabolism
+272,M00064,1,Lach,Lipopolysaccharide biosynthesis,Glycan biosynthesis and metabolism
+273,M00872,0.2,Lach,Mannose type O-glycan biosynthesis,Glycan biosynthesis and metabolism
+274,M00872,0.2,Lach,Mannose type O-glycan biosynthesis,Glycan biosynthesis and metabolism
+275,M00056,0,Lach,Mucin type O-glycan biosynthesis,Glycan biosynthesis and metabolism
+276,M00055,0,Lach,N-Glycan biosynthesis,Glycan biosynthesis and metabolism
+277,M00073,0,Lach,N-Glycan biosynthesis,Glycan biosynthesis and metabolism
+278,M00075,0,Lach,N-Glycan biosynthesis,Glycan biosynthesis and metabolism
+279,M00074,0,Lach,N-Glycan biosynthesis,Glycan biosynthesis and metabolism
+280,M00072,1,Lach,N-Glycan biosynthesis,Glycan biosynthesis and metabolism
+281,M00793,1,Lach,O-Antigen nucleotide sugar biosynthesis,Glycan biosynthesis and metabolism
+282,M00793,1,Lach,O-Antigen nucleotide sugar biosynthesis,Glycan biosynthesis and metabolism
+283,M00074,0,Lach,Various types of N-glycan biosynthesis,Glycan biosynthesis and metabolism
+284,M00072,1,Lach,Various types of N-glycan biosynthesis,Glycan biosynthesis and metabolism
+285,M00113,0.125,Lach,alpha-Linolenic acid metabolism,Lipid metabolism
+286,M00415,0,Lach,Biosynthesis of unsaturated fatty acids,Lipid metabolism
+287,M00861,0,Lach,Biosynthesis of unsaturated fatty acids,Lipid metabolism
+288,M00861,0,Lach,Biosynthesis of unsaturated fatty acids,Lipid metabolism
+289,M00067,0,Lach,Ether lipid metabolism,Lipid metabolism
+290,M00873,0.5,Lach,Fatty acid biosynthesis,Lipid metabolism
+291,M00874,0.5,Lach,Fatty acid biosynthesis,Lipid metabolism
+292,M00873,0.5,Lach,Fatty acid biosynthesis,Lipid metabolism
+293,M00874,0.5,Lach,Fatty acid biosynthesis,Lipid metabolism
+294,M00082,1,Lach,Fatty acid biosynthesis,Lipid metabolism
+295,M00083,1,Lach,Fatty acid biosynthesis,Lipid metabolism
+296,M00086,1,Lach,Fatty acid biosynthesis,Lipid metabolism
+297,M00087,0.666666667,Lach,Fatty acid degradation,Lipid metabolism
+298,M00086,1,Lach,Fatty acid degradation,Lipid metabolism
+299,M00415,0,Lach,Fatty acid elongation,Lipid metabolism
+300,M00085,0,Lach,Fatty acid elongation,Lipid metabolism
+301,M00089,0.5,Lach,Glycerolipid metabolism,Lipid metabolism
+302,M00098,0.5,Lach,Glycerolipid metabolism,Lipid metabolism
+303,M00092,0,Lach,Glycerophospholipid metabolism,Lipid metabolism
+304,M00090,0.333333333,Lach,Glycerophospholipid metabolism,Lipid metabolism
+305,M00091,0,Lach,Glycerophospholipid metabolism,Lipid metabolism
+306,M00093,1,Lach,Glycerophospholipid metabolism,Lipid metabolism
+307,M00106,0,Lach,Primary bile acid biosynthesis,Lipid metabolism
+308,M00104,0,Lach,Primary bile acid biosynthesis,Lipid metabolism
+309,M00862,0,Lach,Primary bile acid biosynthesis,Lipid metabolism
+310,M00862,0,Lach,Primary bile acid biosynthesis,Lipid metabolism
+311,M00067,0,Lach,Sphingolipid metabolism,Lipid metabolism
+312,M00066,0,Lach,Sphingolipid metabolism,Lipid metabolism
+313,M00094,0,Lach,Sphingolipid metabolism,Lipid metabolism
+314,M00099,0,Lach,Sphingolipid metabolism,Lipid metabolism
+315,M00100,0.5,Lach,Sphingolipid metabolism,Lipid metabolism
+316,M00103,0,Lach,Steroid biosynthesis,Lipid metabolism
+317,M00101,0,Lach,Steroid biosynthesis,Lipid metabolism
+318,M00102,0,Lach,Steroid biosynthesis,Lipid metabolism
+319,M00108,0,Lach,Steroid hormone biosynthesis,Lipid metabolism
+320,M00109,0,Lach,Steroid hormone biosynthesis,Lipid metabolism
+321,M00110,0,Lach,Steroid hormone biosynthesis,Lipid metabolism
+322,M00107,0,Lach,Steroid hormone biosynthesis,Lipid metabolism
+323,M00573,0.8,Lach,Biotin metabolism,Metabolism of cofactors and vitamins
+324,M00572,0.833333333,Lach,Biotin metabolism,Metabolism of cofactors and vitamins
+325,M00123,1,Lach,Biotin metabolism,Metabolism of cofactors and vitamins
+326,M00577,1,Lach,Biotin metabolism,Metabolism of cofactors and vitamins
+327,M00841,0.666666667,Lach,Folate biosynthesis,Metabolism of cofactors and vitamins
+328,M00842,0.666666667,Lach,Folate biosynthesis,Metabolism of cofactors and vitamins
+329,M00841,0.666666667,Lach,Folate biosynthesis,Metabolism of cofactors and vitamins
+330,M00842,0.666666667,Lach,Folate biosynthesis,Metabolism of cofactors and vitamins
+331,M00840,0.428571429,Lach,Folate biosynthesis,Metabolism of cofactors and vitamins
+332,M00840,0.428571429,Lach,Folate biosynthesis,Metabolism of cofactors and vitamins
+333,M00843,0.666666667,Lach,Folate biosynthesis,Metabolism of cofactors and vitamins
+334,M00843,0.666666667,Lach,Folate biosynthesis,Metabolism of cofactors and vitamins
+335,M00126,1,Lach,Folate biosynthesis,Metabolism of cofactors and vitamins
+336,M00810,0,Lach,Nicotinate and nicotinamide metabolism,Metabolism of cofactors and vitamins
+337,M00810,0,Lach,Nicotinate and nicotinamide metabolism,Metabolism of cofactors and vitamins
+338,M00811,0,Lach,Nicotinate and nicotinamide metabolism,Metabolism of cofactors and vitamins
+339,M00811,0,Lach,Nicotinate and nicotinamide metabolism,Metabolism of cofactors and vitamins
+340,M00622,0.333333333,Lach,Nicotinate and nicotinamide metabolism,Metabolism of cofactors and vitamins
+341,M00115,1,Lach,Nicotinate and nicotinamide metabolism,Metabolism of cofactors and vitamins
+342,M00141,0.5,Lach,One carbon pool by folate,Metabolism of cofactors and vitamins
+343,M00126,1,Lach,One carbon pool by folate,Metabolism of cofactors and vitamins
+344,M00140,1,Lach,One carbon pool by folate,Metabolism of cofactors and vitamins
+345,M00019,1,Lach,Pantothenate and CoA biosynthesis,Metabolism of cofactors and vitamins
+346,M00119,1,Lach,Pantothenate and CoA biosynthesis,Metabolism of cofactors and vitamins
+347,M00120,1,Lach,Pantothenate and CoA biosynthesis,Metabolism of cofactors and vitamins
+348,M00836,0,Lach,Porphyrin metabolism Title changed!,Metabolism of cofactors and vitamins
+349,M00836,0,Lach,Porphyrin metabolism Title changed!,Metabolism of cofactors and vitamins
+350,M00868,0.625,Lach,Porphyrin metabolism Title changed!,Metabolism of cofactors and vitamins
+351,M00868,0.625,Lach,Porphyrin metabolism Title changed!,Metabolism of cofactors and vitamins
+352,M00847,0.666666667,Lach,Porphyrin metabolism Title changed!,Metabolism of cofactors and vitamins
+353,M00847,0.666666667,Lach,Porphyrin metabolism Title changed!,Metabolism of cofactors and vitamins
+354,M00121,0.8,Lach,Porphyrin metabolism Title changed!,Metabolism of cofactors and vitamins
+355,M00122,1,Lach,Porphyrin metabolism Title changed!,Metabolism of cofactors and vitamins
+356,M00846,1,Lach,Porphyrin metabolism Title changed!,Metabolism of cofactors and vitamins
+357,M00846,1,Lach,Porphyrin metabolism Title changed!,Metabolism of cofactors and vitamins
+358,M00125,1,Lach,Riboflavin metabolism,Metabolism of cofactors and vitamins
+359,M00127,0.5,Lach,Thiamine metabolism,Metabolism of cofactors and vitamins
+360,M00128,0,Lach,Ubiquinone and other terpenoid-quinone biosynthesis,Metabolism of cofactors and vitamins
+361,M00112,0,Lach,Ubiquinone and other terpenoid-quinone biosynthesis,Metabolism of cofactors and vitamins
+362,M00117,0.555555556,Lach,Ubiquinone and other terpenoid-quinone biosynthesis,Metabolism of cofactors and vitamins
+363,M00116,1,Lach,Ubiquinone and other terpenoid-quinone biosynthesis,Metabolism of cofactors and vitamins
+364,M00124,0.333333333,Lach,Vitamin B6 metabolism,Metabolism of cofactors and vitamins
+365,M00013,0.4,Lach,beta-Alanine metabolism,Metabolism of other amino acids
+366,M00369,0,Lach,Cyanoamino acid metabolism,Metabolism of other amino acids
+367,M00118,0.5,Lach,Glutathione metabolism,Metabolism of other amino acids
+368,M00579,1,Lach,Taurine and hypotaurine metabolism,Metabolism of other amino acids
+369,M00775,0,Lach,"Biosynthesis of 12-, 14- and 16-membered macrolides",Metabolism of terpenoids and polyketides
+370,M00776,0,Lach,"Biosynthesis of 12-, 14- and 16-membered macrolides",Metabolism of terpenoids and polyketides
+371,M00775,0,Lach,"Biosynthesis of 12-, 14- and 16-membered macrolides",Metabolism of terpenoids and polyketides
+372,M00776,0,Lach,"Biosynthesis of 12-, 14- and 16-membered macrolides",Metabolism of terpenoids and polyketides
+373,M00773,0.125,Lach,"Biosynthesis of 12-, 14- and 16-membered macrolides",Metabolism of terpenoids and polyketides
+374,M00773,0.125,Lach,"Biosynthesis of 12-, 14- and 16-membered macrolides",Metabolism of terpenoids and polyketides
+375,M00777,0,Lach,"Biosynthesis of 12-, 14- and 16-membered macrolides",Metabolism of terpenoids and polyketides
+376,M00777,0,Lach,"Biosynthesis of 12-, 14- and 16-membered macrolides",Metabolism of terpenoids and polyketides
+377,M00774,0,Lach,"Biosynthesis of 12-, 14- and 16-membered macrolides",Metabolism of terpenoids and polyketides
+378,M00774,0,Lach,"Biosynthesis of 12-, 14- and 16-membered macrolides",Metabolism of terpenoids and polyketides
+379,M00826,0,Lach,Biosynthesis of enediyne antibiotics,Metabolism of terpenoids and polyketides
+380,M00831,0,Lach,Biosynthesis of enediyne antibiotics,Metabolism of terpenoids and polyketides
+381,M00832,0,Lach,Biosynthesis of enediyne antibiotics,Metabolism of terpenoids and polyketides
+382,M00826,0,Lach,Biosynthesis of enediyne antibiotics,Metabolism of terpenoids and polyketides
+383,M00831,0,Lach,Biosynthesis of enediyne antibiotics,Metabolism of terpenoids and polyketides
+384,M00832,0,Lach,Biosynthesis of enediyne antibiotics,Metabolism of terpenoids and polyketides
+385,M00827,0,Lach,Biosynthesis of enediyne antibiotics,Metabolism of terpenoids and polyketides
+386,M00827,0,Lach,Biosynthesis of enediyne antibiotics,Metabolism of terpenoids and polyketides
+387,M00830,0,Lach,Biosynthesis of enediyne antibiotics,Metabolism of terpenoids and polyketides
+388,M00830,0,Lach,Biosynthesis of enediyne antibiotics,Metabolism of terpenoids and polyketides
+389,M00833,0,Lach,Biosynthesis of enediyne antibiotics,Metabolism of terpenoids and polyketides
+390,M00834,0,Lach,Biosynthesis of enediyne antibiotics,Metabolism of terpenoids and polyketides
+391,M00833,0,Lach,Biosynthesis of enediyne antibiotics,Metabolism of terpenoids and polyketides
+392,M00834,0,Lach,Biosynthesis of enediyne antibiotics,Metabolism of terpenoids and polyketides
+393,M00828,0,Lach,Biosynthesis of enediyne antibiotics,Metabolism of terpenoids and polyketides
+394,M00829,0,Lach,Biosynthesis of enediyne antibiotics,Metabolism of terpenoids and polyketides
+395,M00828,0,Lach,Biosynthesis of enediyne antibiotics,Metabolism of terpenoids and polyketides
+396,M00829,0,Lach,Biosynthesis of enediyne antibiotics,Metabolism of terpenoids and polyketides
+397,M00824,0,Lach,Biosynthesis of enediyne antibiotics,Metabolism of terpenoids and polyketides
+398,M00825,0,Lach,Biosynthesis of enediyne antibiotics,Metabolism of terpenoids and polyketides
+399,M00824,0,Lach,Biosynthesis of enediyne antibiotics,Metabolism of terpenoids and polyketides
+400,M00825,0,Lach,Biosynthesis of enediyne antibiotics,Metabolism of terpenoids and polyketides
+401,M00778,0,Lach,Biosynthesis of type II polyketide backbone,Metabolism of terpenoids and polyketides
+402,M00778,0,Lach,Biosynthesis of type II polyketide backbone,Metabolism of terpenoids and polyketides
+403,M00782,0,Lach,Biosynthesis of type II polyketide products,Metabolism of terpenoids and polyketides
+404,M00782,0,Lach,Biosynthesis of type II polyketide products,Metabolism of terpenoids and polyketides
+405,M00784,0.2,Lach,Biosynthesis of type II polyketide products,Metabolism of terpenoids and polyketides
+406,M00784,0.2,Lach,Biosynthesis of type II polyketide products,Metabolism of terpenoids and polyketides
+407,M00781,0,Lach,Biosynthesis of type II polyketide products,Metabolism of terpenoids and polyketides
+408,M00781,0,Lach,Biosynthesis of type II polyketide products,Metabolism of terpenoids and polyketides
+409,M00780,0,Lach,Biosynthesis of type II polyketide products,Metabolism of terpenoids and polyketides
+410,M00780,0,Lach,Biosynthesis of type II polyketide products,Metabolism of terpenoids and polyketides
+411,M00823,0,Lach,Biosynthesis of type II polyketide products,Metabolism of terpenoids and polyketides
+412,M00823,0,Lach,Biosynthesis of type II polyketide products,Metabolism of terpenoids and polyketides
+413,M00783,0,Lach,Biosynthesis of type II polyketide products,Metabolism of terpenoids and polyketides
+414,M00783,0,Lach,Biosynthesis of type II polyketide products,Metabolism of terpenoids and polyketides
+415,M00779,0,Lach,Biosynthesis of type II polyketide products,Metabolism of terpenoids and polyketides
+416,M00779,0,Lach,Biosynthesis of type II polyketide products,Metabolism of terpenoids and polyketides
+417,M00371,0,Lach,Brassinosteroid biosynthesis,Metabolism of terpenoids and polyketides
+418,M00372,0,Lach,Carotenoid biosynthesis,Metabolism of terpenoids and polyketides
+419,M00097,0.166666667,Lach,Carotenoid biosynthesis,Metabolism of terpenoids and polyketides
+420,M00795,0,Lach,Polyketide sugar unit biosynthesis,Metabolism of terpenoids and polyketides
+421,M00796,0,Lach,Polyketide sugar unit biosynthesis,Metabolism of terpenoids and polyketides
+422,M00795,0,Lach,Polyketide sugar unit biosynthesis,Metabolism of terpenoids and polyketides
+423,M00796,0,Lach,Polyketide sugar unit biosynthesis,Metabolism of terpenoids and polyketides
+424,M00794,0,Lach,Polyketide sugar unit biosynthesis,Metabolism of terpenoids and polyketides
+425,M00794,0,Lach,Polyketide sugar unit biosynthesis,Metabolism of terpenoids and polyketides
+426,M00803,0.25,Lach,Polyketide sugar unit biosynthesis,Metabolism of terpenoids and polyketides
+427,M00803,0.25,Lach,Polyketide sugar unit biosynthesis,Metabolism of terpenoids and polyketides
+428,M00801,0.5,Lach,Polyketide sugar unit biosynthesis,Metabolism of terpenoids and polyketides
+429,M00801,0.5,Lach,Polyketide sugar unit biosynthesis,Metabolism of terpenoids and polyketides
+430,M00802,0.4,Lach,Polyketide sugar unit biosynthesis,Metabolism of terpenoids and polyketides
+431,M00802,0.4,Lach,Polyketide sugar unit biosynthesis,Metabolism of terpenoids and polyketides
+432,M00797,0,Lach,Polyketide sugar unit biosynthesis,Metabolism of terpenoids and polyketides
+433,M00797,0,Lach,Polyketide sugar unit biosynthesis,Metabolism of terpenoids and polyketides
+434,M00800,0.2,Lach,Polyketide sugar unit biosynthesis,Metabolism of terpenoids and polyketides
+435,M00800,0.2,Lach,Polyketide sugar unit biosynthesis,Metabolism of terpenoids and polyketides
+436,M00798,0.4,Lach,Polyketide sugar unit biosynthesis,Metabolism of terpenoids and polyketides
+437,M00799,0.4,Lach,Polyketide sugar unit biosynthesis,Metabolism of terpenoids and polyketides
+438,M00798,0.4,Lach,Polyketide sugar unit biosynthesis,Metabolism of terpenoids and polyketides
+439,M00799,0.4,Lach,Polyketide sugar unit biosynthesis,Metabolism of terpenoids and polyketides
+440,M00793,1,Lach,Polyketide sugar unit biosynthesis,Metabolism of terpenoids and polyketides
+441,M00793,1,Lach,Polyketide sugar unit biosynthesis,Metabolism of terpenoids and polyketides
+442,M00367,0.333333333,Lach,Terpenoid backbone biosynthesis,Metabolism of terpenoids and polyketides
+443,M00366,0.5,Lach,Terpenoid backbone biosynthesis,Metabolism of terpenoids and polyketides
+444,M00365,0.5,Lach,Terpenoid backbone biosynthesis,Metabolism of terpenoids and polyketides
+445,M00849,0.666666667,Lach,Terpenoid backbone biosynthesis,Metabolism of terpenoids and polyketides
+446,M00849,0.666666667,Lach,Terpenoid backbone biosynthesis,Metabolism of terpenoids and polyketides
+447,M00095,0.714285714,Lach,Terpenoid backbone biosynthesis,Metabolism of terpenoids and polyketides
+448,M00096,1,Lach,Terpenoid backbone biosynthesis,Metabolism of terpenoids and polyketides
+449,M00364,1,Lach,Terpenoid backbone biosynthesis,Metabolism of terpenoids and polyketides
+450,M00780,0,Lach,Tetracycline biosynthesis,Metabolism of terpenoids and polyketides
+451,M00780,0,Lach,Tetracycline biosynthesis,Metabolism of terpenoids and polyketides
+452,M00823,0,Lach,Tetracycline biosynthesis,Metabolism of terpenoids and polyketides
+453,M00823,0,Lach,Tetracycline biosynthesis,Metabolism of terpenoids and polyketides
+454,M00778,0,Lach,Tetracycline biosynthesis,Metabolism of terpenoids and polyketides
+455,M00778,0,Lach,Tetracycline biosynthesis,Metabolism of terpenoids and polyketides
+456,M00005,1,Lach,Purine metabolism,Nucleotide metabolism
+1,M00740,0.272727273,UHGP_ad,"Alanine, aspartate and glutamate metabolism",Amino acid metabolism
+2,M00740,0.272727273,UHGP_ad,"Alanine, aspartate and glutamate metabolism",Amino acid metabolism
+3,M00027,0,UHGP_ad,"Alanine, aspartate and glutamate metabolism",Amino acid metabolism
+4,M00047,0.666666667,UHGP_ad,Arginine and proline metabolism,Amino acid metabolism
+5,M00136,0.5,UHGP_ad,Arginine and proline metabolism,Amino acid metabolism
+6,M00135,0.333333333,UHGP_ad,Arginine and proline metabolism,Amino acid metabolism
+7,M00015,0,UHGP_ad,Arginine and proline metabolism,Amino acid metabolism
+8,M00133,0,UHGP_ad,Arginine and proline metabolism,Amino acid metabolism
+9,M00134,0,UHGP_ad,Arginine and proline metabolism,Amino acid metabolism
+10,M00763,0.6,UHGP_ad,Arginine biosynthesis,Amino acid metabolism
+11,M00763,0.6,UHGP_ad,Arginine biosynthesis,Amino acid metabolism
+12,M00845,0.285714286,UHGP_ad,Arginine biosynthesis,Amino acid metabolism
+13,M00845,0.285714286,UHGP_ad,Arginine biosynthesis,Amino acid metabolism
+14,M00029,0.2,UHGP_ad,Arginine biosynthesis,Amino acid metabolism
+15,M00028,0,UHGP_ad,Arginine biosynthesis,Amino acid metabolism
+16,M00844,0,UHGP_ad,Arginine biosynthesis,Amino acid metabolism
+17,M00844,0,UHGP_ad,Arginine biosynthesis,Amino acid metabolism
+18,M00368,0,UHGP_ad,Cysteine and methionine metabolism,Amino acid metabolism
+19,M00609,0.333333333,UHGP_ad,Cysteine and methionine metabolism,Amino acid metabolism
+20,M00034,0.125,UHGP_ad,Cysteine and methionine metabolism,Amino acid metabolism
+21,M00017,0,UHGP_ad,Cysteine and methionine metabolism,Amino acid metabolism
+22,M00021,0,UHGP_ad,Cysteine and methionine metabolism,Amino acid metabolism
+23,M00035,0,UHGP_ad,Cysteine and methionine metabolism,Amino acid metabolism
+24,M00338,0,UHGP_ad,Cysteine and methionine metabolism,Amino acid metabolism
+25,M00018,0,UHGP_ad,"Glycine, serine and threonine metabolism",Amino acid metabolism
+26,M00020,0,UHGP_ad,"Glycine, serine and threonine metabolism",Amino acid metabolism
+27,M00033,0,UHGP_ad,"Glycine, serine and threonine metabolism",Amino acid metabolism
+28,M00338,0,UHGP_ad,"Glycine, serine and threonine metabolism",Amino acid metabolism
+29,M00555,0,UHGP_ad,"Glycine, serine and threonine metabolism",Amino acid metabolism
+30,M00026,0,UHGP_ad,Histidine metabolism,Amino acid metabolism
+31,M00045,0,UHGP_ad,Histidine metabolism,Amino acid metabolism
+32,M00030,0.5,UHGP_ad,Lysine biosynthesis,Amino acid metabolism
+33,M00433,1,UHGP_ad,Lysine biosynthesis,Amino acid metabolism
+34,M00608,1,UHGP_ad,Lysine biosynthesis,Amino acid metabolism
+35,M00031,0.8,UHGP_ad,Lysine biosynthesis,Amino acid metabolism
+36,M00016,0,UHGP_ad,Lysine biosynthesis,Amino acid metabolism
+37,M00525,0,UHGP_ad,Lysine biosynthesis,Amino acid metabolism
+38,M00526,0,UHGP_ad,Lysine biosynthesis,Amino acid metabolism
+39,M00527,0,UHGP_ad,Lysine biosynthesis,Amino acid metabolism
+40,M00032,0.25,UHGP_ad,Lysine degradation,Amino acid metabolism
+41,M00040,0.5,UHGP_ad,"Phenylalanine, tyrosine and tryptophan biosynthesis",Amino acid metabolism
+42,M00022,0,UHGP_ad,"Phenylalanine, tyrosine and tryptophan biosynthesis",Amino acid metabolism
+43,M00023,0,UHGP_ad,"Phenylalanine, tyrosine and tryptophan biosynthesis",Amino acid metabolism
+44,M00024,0,UHGP_ad,"Phenylalanine, tyrosine and tryptophan biosynthesis",Amino acid metabolism
+45,M00025,0,UHGP_ad,"Phenylalanine, tyrosine and tryptophan biosynthesis",Amino acid metabolism
+46,M00370,0,UHGP_ad,Tryptophan metabolism,Amino acid metabolism
+47,M00037,0,UHGP_ad,Tryptophan metabolism,Amino acid metabolism
+48,M00038,0.285714286,UHGP_ad,Tryptophan metabolism,Amino acid metabolism
+49,M00043,0,UHGP_ad,Tyrosine metabolism,Amino acid metabolism
+50,M00042,0,UHGP_ad,Tyrosine metabolism,Amino acid metabolism
+51,M00044,1,UHGP_ad,Tyrosine metabolism,Amino acid metabolism
+52,M00533,0.5,UHGP_ad,Tyrosine metabolism,Amino acid metabolism
+53,M00535,0.333333333,UHGP_ad,"Valine, leucine and isoleucine biosynthesis",Amino acid metabolism
+54,M00019,0,UHGP_ad,"Valine, leucine and isoleucine biosynthesis",Amino acid metabolism
+55,M00432,0,UHGP_ad,"Valine, leucine and isoleucine biosynthesis",Amino acid metabolism
+56,M00570,0,UHGP_ad,"Valine, leucine and isoleucine biosynthesis",Amino acid metabolism
+57,M00741,0.333333333,UHGP_ad,"Valine, leucine and isoleucine degradation",Amino acid metabolism
+58,M00741,0.333333333,UHGP_ad,"Valine, leucine and isoleucine degradation",Amino acid metabolism
+59,M00036,0.166666667,UHGP_ad,"Valine, leucine and isoleucine degradation",Amino acid metabolism
+60,M00814,0.5,UHGP_ad,Acarbose and validamycin biosynthesis,Biosynthesis of other secondary metabolites
+61,M00814,0.5,UHGP_ad,Acarbose and validamycin biosynthesis,Biosynthesis of other secondary metabolites
+62,M00815,0.444444444,UHGP_ad,Acarbose and validamycin biosynthesis,Biosynthesis of other secondary metabolites
+63,M00815,0.444444444,UHGP_ad,Acarbose and validamycin biosynthesis,Biosynthesis of other secondary metabolites
+64,M00785,0,UHGP_ad,Biosynthesis of various antibiotics Title changed!,Biosynthesis of other secondary metabolites
+65,M00788,0,UHGP_ad,Biosynthesis of various antibiotics Title changed!,Biosynthesis of other secondary metabolites
+66,M00785,0,UHGP_ad,Biosynthesis of various antibiotics Title changed!,Biosynthesis of other secondary metabolites
+67,M00788,0,UHGP_ad,Biosynthesis of various antibiotics Title changed!,Biosynthesis of other secondary metabolites
+68,M00819,0.25,UHGP_ad,Biosynthesis of various antibiotics Title changed!,Biosynthesis of other secondary metabolites
+69,M00819,0.25,UHGP_ad,Biosynthesis of various antibiotics Title changed!,Biosynthesis of other secondary metabolites
+70,M00848,0.25,UHGP_ad,Biosynthesis of various antibiotics Title changed!,Biosynthesis of other secondary metabolites
+71,M00848,0.25,UHGP_ad,Biosynthesis of various antibiotics Title changed!,Biosynthesis of other secondary metabolites
+72,M00787,0.166666667,UHGP_ad,Biosynthesis of various antibiotics Title changed!,Biosynthesis of other secondary metabolites
+73,M00787,0.166666667,UHGP_ad,Biosynthesis of various antibiotics Title changed!,Biosynthesis of other secondary metabolites
+74,M00877,0.666666667,UHGP_ad,Biosynthesis of various antibiotics Title changed!,Biosynthesis of other secondary metabolites
+75,M00877,0.666666667,UHGP_ad,Biosynthesis of various antibiotics Title changed!,Biosynthesis of other secondary metabolites
+76,M00875,0,UHGP_ad,Biosynthesis of various other secondary metabolites Title changed!,Biosynthesis of other secondary metabolites
+77,M00875,0,UHGP_ad,Biosynthesis of various other secondary metabolites Title changed!,Biosynthesis of other secondary metabolites
+78,M00876,0,UHGP_ad,Biosynthesis of various other secondary metabolites Title changed!,Biosynthesis of other secondary metabolites
+79,M00876,0,UHGP_ad,Biosynthesis of various other secondary metabolites Title changed!,Biosynthesis of other secondary metabolites
+80,M00675,1,UHGP_ad,Carbapenem biosynthesis,Biosynthesis of other secondary metabolites
+81,M00675,1,UHGP_ad,Carbapenem biosynthesis,Biosynthesis of other secondary metabolites
+82,M00674,1,UHGP_ad,Clavulanic acid biosynthesis,Biosynthesis of other secondary metabolites
+83,M00674,1,UHGP_ad,Clavulanic acid biosynthesis,Biosynthesis of other secondary metabolites
+84,M00138,0,UHGP_ad,Flavonoid biosynthesis,Biosynthesis of other secondary metabolites
+85,M00137,0.4,UHGP_ad,Flavonoid biosynthesis,Biosynthesis of other secondary metabolites
+86,M00370,0,UHGP_ad,Glucosinolate biosynthesis,Biosynthesis of other secondary metabolites
+87,M00661,0,UHGP_ad,Indole diterpene alkaloid biosynthesis,Biosynthesis of other secondary metabolites
+88,M00661,0,UHGP_ad,Indole diterpene alkaloid biosynthesis,Biosynthesis of other secondary metabolites
+89,M00736,0.75,UHGP_ad,Monobactam biosynthesis,Biosynthesis of other secondary metabolites
+90,M00736,0.75,UHGP_ad,Monobactam biosynthesis,Biosynthesis of other secondary metabolites
+91,M00673,0.5,UHGP_ad,Penicillin and cephalosporin biosynthesis,Biosynthesis of other secondary metabolites
+92,M00673,0.5,UHGP_ad,Penicillin and cephalosporin biosynthesis,Biosynthesis of other secondary metabolites
+93,M00672,0.666666667,UHGP_ad,Penicillin and cephalosporin biosynthesis,Biosynthesis of other secondary metabolites
+94,M00672,0.666666667,UHGP_ad,Penicillin and cephalosporin biosynthesis,Biosynthesis of other secondary metabolites
+95,M00835,0.714285714,UHGP_ad,Phenazine biosynthesis,Biosynthesis of other secondary metabolites
+96,M00835,0.714285714,UHGP_ad,Phenazine biosynthesis,Biosynthesis of other secondary metabolites
+97,M00039,0.4,UHGP_ad,Phenylpropanoid biosynthesis,Biosynthesis of other secondary metabolites
+98,M00137,0.4,UHGP_ad,Phenylpropanoid biosynthesis,Biosynthesis of other secondary metabolites
+99,M00837,1,UHGP_ad,Prodigiosin biosynthesis,Biosynthesis of other secondary metabolites
+100,M00838,1,UHGP_ad,Prodigiosin biosynthesis,Biosynthesis of other secondary metabolites
+101,M00837,1,UHGP_ad,Prodigiosin biosynthesis,Biosynthesis of other secondary metabolites
+102,M00838,1,UHGP_ad,Prodigiosin biosynthesis,Biosynthesis of other secondary metabolites
+103,M00786,0,UHGP_ad,Staurosporine biosynthesis,Biosynthesis of other secondary metabolites
+104,M00805,0,UHGP_ad,Staurosporine biosynthesis,Biosynthesis of other secondary metabolites
+105,M00786,0,UHGP_ad,Staurosporine biosynthesis,Biosynthesis of other secondary metabolites
+106,M00805,0,UHGP_ad,Staurosporine biosynthesis,Biosynthesis of other secondary metabolites
+107,M00789,0.166666667,UHGP_ad,Staurosporine biosynthesis,Biosynthesis of other secondary metabolites
+108,M00789,0.166666667,UHGP_ad,Staurosporine biosynthesis,Biosynthesis of other secondary metabolites
+109,M00790,0.75,UHGP_ad,Staurosporine biosynthesis,Biosynthesis of other secondary metabolites
+110,M00808,0.75,UHGP_ad,Staurosporine biosynthesis,Biosynthesis of other secondary metabolites
+111,M00790,0.75,UHGP_ad,Staurosporine biosynthesis,Biosynthesis of other secondary metabolites
+112,M00808,0.75,UHGP_ad,Staurosporine biosynthesis,Biosynthesis of other secondary metabolites
+113,M00793,0,UHGP_ad,Streptomycin biosynthesis,Biosynthesis of other secondary metabolites
+114,M00793,0,UHGP_ad,Streptomycin biosynthesis,Biosynthesis of other secondary metabolites
+115,M00761,0.5,UHGP_ad,Amino sugar and nucleotide sugar metabolism,Carbohydrate metabolism
+116,M00761,0.5,UHGP_ad,Amino sugar and nucleotide sugar metabolism,Carbohydrate metabolism
+117,M00549,0,UHGP_ad,Amino sugar and nucleotide sugar metabolism,Carbohydrate metabolism
+118,M00554,0,UHGP_ad,Amino sugar and nucleotide sugar metabolism,Carbohydrate metabolism
+119,M00114,0.285714286,UHGP_ad,Ascorbate and aldarate metabolism,Carbohydrate metabolism
+120,M00129,0.285714286,UHGP_ad,Ascorbate and aldarate metabolism,Carbohydrate metabolism
+121,M00550,0,UHGP_ad,Ascorbate and aldarate metabolism,Carbohydrate metabolism
+122,M00027,0,UHGP_ad,Butanoate metabolism,Carbohydrate metabolism
+123,M00088,0,UHGP_ad,Butanoate metabolism,Carbohydrate metabolism
+124,M00535,0.333333333,UHGP_ad,C5-Branched dibasic acid metabolism,Carbohydrate metabolism
+125,M00740,0.272727273,UHGP_ad,Citrate cycle (TCA cycle),Carbohydrate metabolism
+126,M00740,0.272727273,UHGP_ad,Citrate cycle (TCA cycle),Carbohydrate metabolism
+127,M00003,0,UHGP_ad,Citrate cycle (TCA cycle),Carbohydrate metabolism
+128,M00009,0,UHGP_ad,Citrate cycle (TCA cycle),Carbohydrate metabolism
+129,M00010,0,UHGP_ad,Citrate cycle (TCA cycle),Carbohydrate metabolism
+130,M00011,0,UHGP_ad,Citrate cycle (TCA cycle),Carbohydrate metabolism
+131,M00307,0,UHGP_ad,Citrate cycle (TCA cycle),Carbohydrate metabolism
+132,M00114,0.285714286,UHGP_ad,Fructose and mannose metabolism,Carbohydrate metabolism
+133,M00633,0.5,UHGP_ad,Galactose metabolism,Carbohydrate metabolism
+134,M00633,0.5,UHGP_ad,Galactose metabolism,Carbohydrate metabolism
+135,M00309,0.333333333,UHGP_ad,Galactose metabolism,Carbohydrate metabolism
+136,M00552,0,UHGP_ad,Galactose metabolism,Carbohydrate metabolism
+137,M00554,0,UHGP_ad,Galactose metabolism,Carbohydrate metabolism
+138,M00632,0,UHGP_ad,Galactose metabolism,Carbohydrate metabolism
+139,M00632,0,UHGP_ad,Galactose metabolism,Carbohydrate metabolism
+140,M00001,0,UHGP_ad,Glycolysis / Gluconeogenesis,Carbohydrate metabolism
+141,M00002,0,UHGP_ad,Glycolysis / Gluconeogenesis,Carbohydrate metabolism
+142,M00003,0,UHGP_ad,Glycolysis / Gluconeogenesis,Carbohydrate metabolism
+143,M00307,0,UHGP_ad,Glycolysis / Gluconeogenesis,Carbohydrate metabolism
+144,M00740,0.272727273,UHGP_ad,Glyoxylate and dicarboxylate metabolism,Carbohydrate metabolism
+145,M00740,0.272727273,UHGP_ad,Glyoxylate and dicarboxylate metabolism,Carbohydrate metabolism
+146,M00012,0.4,UHGP_ad,Glyoxylate and dicarboxylate metabolism,Carbohydrate metabolism
+147,M00373,0.333333333,UHGP_ad,Glyoxylate and dicarboxylate metabolism,Carbohydrate metabolism
+148,M00741,0.333333333,UHGP_ad,Glyoxylate and dicarboxylate metabolism,Carbohydrate metabolism
+149,M00741,0.333333333,UHGP_ad,Glyoxylate and dicarboxylate metabolism,Carbohydrate metabolism
+150,M00532,0,UHGP_ad,Glyoxylate and dicarboxylate metabolism,Carbohydrate metabolism
+151,M00130,0,UHGP_ad,Inositol phosphate metabolism,Carbohydrate metabolism
+152,M00132,0,UHGP_ad,Inositol phosphate metabolism,Carbohydrate metabolism
+153,M00131,0,UHGP_ad,Inositol phosphate metabolism,Carbohydrate metabolism
+154,M00630,0.25,UHGP_ad,Pentose and glucuronate interconversions,Carbohydrate metabolism
+155,M00630,0.25,UHGP_ad,Pentose and glucuronate interconversions,Carbohydrate metabolism
+156,M00014,0.0625,UHGP_ad,Pentose and glucuronate interconversions,Carbohydrate metabolism
+157,M00129,0.285714286,UHGP_ad,Pentose and glucuronate interconversions,Carbohydrate metabolism
+158,M00061,0,UHGP_ad,Pentose and glucuronate interconversions,Carbohydrate metabolism
+159,M00081,0,UHGP_ad,Pentose and glucuronate interconversions,Carbohydrate metabolism
+160,M00631,0,UHGP_ad,Pentose and glucuronate interconversions,Carbohydrate metabolism
+161,M00631,0,UHGP_ad,Pentose and glucuronate interconversions,Carbohydrate metabolism
+162,M00633,0.5,UHGP_ad,Pentose phosphate pathway,Carbohydrate metabolism
+163,M00633,0.5,UHGP_ad,Pentose phosphate pathway,Carbohydrate metabolism
+164,M00309,0.333333333,UHGP_ad,Pentose phosphate pathway,Carbohydrate metabolism
+165,M00008,0.25,UHGP_ad,Pentose phosphate pathway,Carbohydrate metabolism
+166,M00308,0.25,UHGP_ad,Pentose phosphate pathway,Carbohydrate metabolism
+167,M00004,0,UHGP_ad,Pentose phosphate pathway,Carbohydrate metabolism
+168,M00005,0,UHGP_ad,Pentose phosphate pathway,Carbohydrate metabolism
+169,M00006,0,UHGP_ad,Pentose phosphate pathway,Carbohydrate metabolism
+170,M00007,0,UHGP_ad,Pentose phosphate pathway,Carbohydrate metabolism
+171,M00061,0,UHGP_ad,Pentose phosphate pathway,Carbohydrate metabolism
+172,M00345,0,UHGP_ad,Pentose phosphate pathway,Carbohydrate metabolism
+173,M00580,0,UHGP_ad,Pentose phosphate pathway,Carbohydrate metabolism
+174,M00631,0,UHGP_ad,Pentose phosphate pathway,Carbohydrate metabolism
+175,M00631,0,UHGP_ad,Pentose phosphate pathway,Carbohydrate metabolism
+176,M00013,0.2,UHGP_ad,Propanoate metabolism,Carbohydrate metabolism
+177,M00741,0.333333333,UHGP_ad,Propanoate metabolism,Carbohydrate metabolism
+178,M00741,0.333333333,UHGP_ad,Propanoate metabolism,Carbohydrate metabolism
+179,M00172,0.5,UHGP_ad,Pyruvate metabolism,Carbohydrate metabolism
+180,M00168,0.5,UHGP_ad,Pyruvate metabolism,Carbohydrate metabolism
+181,M00169,0.5,UHGP_ad,Pyruvate metabolism,Carbohydrate metabolism
+182,M00307,0,UHGP_ad,Pyruvate metabolism,Carbohydrate metabolism
+183,M00579,0,UHGP_ad,Pyruvate metabolism,Carbohydrate metabolism
+184,M00565,0.166666667,UHGP_ad,Starch and sucrose metabolism,Carbohydrate metabolism
+185,M00854,0,UHGP_ad,Starch and sucrose metabolism,Carbohydrate metabolism
+186,M00855,0,UHGP_ad,Starch and sucrose metabolism,Carbohydrate metabolism
+187,M00854,0,UHGP_ad,Starch and sucrose metabolism,Carbohydrate metabolism
+188,M00855,0,UHGP_ad,Starch and sucrose metabolism,Carbohydrate metabolism
+189,M00171,0.285714286,UHGP_ad,Carbon fixation in photosynthetic organisms,Energy metabolism
+190,M00170,0.25,UHGP_ad,Carbon fixation in photosynthetic organisms,Energy metabolism
+191,M00172,0.5,UHGP_ad,Carbon fixation in photosynthetic organisms,Energy metabolism
+192,M00168,0.5,UHGP_ad,Carbon fixation in photosynthetic organisms,Energy metabolism
+193,M00169,0.5,UHGP_ad,Carbon fixation in photosynthetic organisms,Energy metabolism
+194,M00167,0.142857143,UHGP_ad,Carbon fixation in photosynthetic organisms,Energy metabolism
+195,M00165,0.090909091,UHGP_ad,Carbon fixation in photosynthetic organisms,Energy metabolism
+196,M00166,0,UHGP_ad,Carbon fixation in photosynthetic organisms,Energy metabolism
+197,M00375,0.5,UHGP_ad,Carbon fixation pathways in prokaryotes,Energy metabolism
+198,M00374,0.307692308,UHGP_ad,Carbon fixation pathways in prokaryotes,Energy metabolism
+199,M00376,0.75,UHGP_ad,Carbon fixation pathways in prokaryotes,Energy metabolism
+200,M00173,0.1,UHGP_ad,Carbon fixation pathways in prokaryotes,Energy metabolism
+201,M00377,0,UHGP_ad,Carbon fixation pathways in prokaryotes,Energy metabolism
+202,M00579,0,UHGP_ad,Carbon fixation pathways in prokaryotes,Energy metabolism
+203,M00620,0,UHGP_ad,Carbon fixation pathways in prokaryotes,Energy metabolism
+204,M00344,0.25,UHGP_ad,Methane metabolism,Energy metabolism
+205,M00174,1,UHGP_ad,Methane metabolism,Energy metabolism
+206,M00378,1,UHGP_ad,Methane metabolism,Energy metabolism
+207,M00608,1,UHGP_ad,Methane metabolism,Energy metabolism
+208,M00358,0.75,UHGP_ad,Methane metabolism,Energy metabolism
+209,M00567,0.625,UHGP_ad,Methane metabolism,Energy metabolism
+210,M00422,0.5,UHGP_ad,Methane metabolism,Energy metabolism
+211,M00563,0.5,UHGP_ad,Methane metabolism,Energy metabolism
+212,M00357,0.4,UHGP_ad,Methane metabolism,Energy metabolism
+213,M00346,0.333333333,UHGP_ad,Methane metabolism,Energy metabolism
+214,M00356,0.333333333,UHGP_ad,Methane metabolism,Energy metabolism
+215,M00020,0,UHGP_ad,Methane metabolism,Energy metabolism
+216,M00345,0,UHGP_ad,Methane metabolism,Energy metabolism
+217,M00528,0.5,UHGP_ad,Nitrogen metabolism,Energy metabolism
+218,M00804,0.666666667,UHGP_ad,Nitrogen metabolism,Energy metabolism
+219,M00804,0.666666667,UHGP_ad,Nitrogen metabolism,Energy metabolism
+220,M00529,0.75,UHGP_ad,Nitrogen metabolism,Energy metabolism
+221,M00175,0,UHGP_ad,Nitrogen metabolism,Energy metabolism
+222,M00530,0,UHGP_ad,Nitrogen metabolism,Energy metabolism
+223,M00531,0,UHGP_ad,Nitrogen metabolism,Energy metabolism
+224,M00147,0,UHGP_ad,Oxidative phosphorylation,Energy metabolism
+225,M00142,1,UHGP_ad,Oxidative phosphorylation,Energy metabolism
+226,M00143,1,UHGP_ad,Oxidative phosphorylation,Energy metabolism
+227,M00145,1,UHGP_ad,Oxidative phosphorylation,Energy metabolism
+228,M00148,1,UHGP_ad,Oxidative phosphorylation,Energy metabolism
+229,M00151,1,UHGP_ad,Oxidative phosphorylation,Energy metabolism
+230,M00152,1,UHGP_ad,Oxidative phosphorylation,Energy metabolism
+231,M00153,1,UHGP_ad,Oxidative phosphorylation,Energy metabolism
+232,M00154,1,UHGP_ad,Oxidative phosphorylation,Energy metabolism
+233,M00156,1,UHGP_ad,Oxidative phosphorylation,Energy metabolism
+234,M00158,1,UHGP_ad,Oxidative phosphorylation,Energy metabolism
+235,M00160,1,UHGP_ad,Oxidative phosphorylation,Energy metabolism
+236,M00416,1,UHGP_ad,Oxidative phosphorylation,Energy metabolism
+237,M00417,1,UHGP_ad,Oxidative phosphorylation,Energy metabolism
+238,M00144,0,UHGP_ad,Oxidative phosphorylation,Energy metabolism
+239,M00146,0,UHGP_ad,Oxidative phosphorylation,Energy metabolism
+240,M00149,0,UHGP_ad,Oxidative phosphorylation,Energy metabolism
+241,M00150,0,UHGP_ad,Oxidative phosphorylation,Energy metabolism
+242,M00155,0,UHGP_ad,Oxidative phosphorylation,Energy metabolism
+243,M00157,0,UHGP_ad,Oxidative phosphorylation,Energy metabolism
+244,M00159,0,UHGP_ad,Oxidative phosphorylation,Energy metabolism
+245,M00161,1,UHGP_ad,Photosynthesis,Energy metabolism
+246,M00162,1,UHGP_ad,Photosynthesis,Energy metabolism
+247,M00163,1,UHGP_ad,Photosynthesis,Energy metabolism
+248,M00157,0,UHGP_ad,Photosynthesis,Energy metabolism
+249,M00596,0.333333333,UHGP_ad,Sulfur metabolism,Energy metabolism
+250,M00021,0,UHGP_ad,Sulfur metabolism,Energy metabolism
+251,M00176,0,UHGP_ad,Sulfur metabolism,Energy metabolism
+252,M00595,0,UHGP_ad,Sulfur metabolism,Energy metabolism
+253,M00058,0,UHGP_ad,Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate,Glycan biosynthesis and metabolism
+254,M00057,0.25,UHGP_ad,Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate,Glycan biosynthesis and metabolism
+255,M00057,0.25,UHGP_ad,Glycosaminoglycan biosynthesis - heparan sulfate / heparin,Glycan biosynthesis and metabolism
+256,M00059,0.6,UHGP_ad,Glycosaminoglycan biosynthesis - heparan sulfate / heparin,Glycan biosynthesis and metabolism
+257,M00079,0.2,UHGP_ad,Glycosaminoglycan degradation,Glycan biosynthesis and metabolism
+258,M00076,0.333333333,UHGP_ad,Glycosaminoglycan degradation,Glycan biosynthesis and metabolism
+259,M00078,0.222222222,UHGP_ad,Glycosaminoglycan degradation,Glycan biosynthesis and metabolism
+260,M00077,0.5,UHGP_ad,Glycosaminoglycan degradation,Glycan biosynthesis and metabolism
+261,M00069,0,UHGP_ad,Glycosphingolipid biosynthesis - ganglio series,Glycan biosynthesis and metabolism
+262,M00068,0,UHGP_ad,Glycosphingolipid biosynthesis - globo and isoglobo series,Glycan biosynthesis and metabolism
+263,M00070,0,UHGP_ad,Glycosphingolipid biosynthesis - lacto and neolacto series,Glycan biosynthesis and metabolism
+264,M00071,0,UHGP_ad,Glycosphingolipid biosynthesis - lacto and neolacto series,Glycan biosynthesis and metabolism
+265,M00065,0.5,UHGP_ad,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis,Glycan biosynthesis and metabolism
+266,M00867,0.6,UHGP_ad,Lipopolysaccharide biosynthesis,Glycan biosynthesis and metabolism
+267,M00867,0.6,UHGP_ad,Lipopolysaccharide biosynthesis,Glycan biosynthesis and metabolism
+268,M00060,0.777777778,UHGP_ad,Lipopolysaccharide biosynthesis,Glycan biosynthesis and metabolism
+269,M00866,0.666666667,UHGP_ad,Lipopolysaccharide biosynthesis,Glycan biosynthesis and metabolism
+270,M00866,0.666666667,UHGP_ad,Lipopolysaccharide biosynthesis,Glycan biosynthesis and metabolism
+271,M00063,0,UHGP_ad,Lipopolysaccharide biosynthesis,Glycan biosynthesis and metabolism
+272,M00064,0,UHGP_ad,Lipopolysaccharide biosynthesis,Glycan biosynthesis and metabolism
+273,M00872,0.2,UHGP_ad,Mannose type O-glycan biosynthesis,Glycan biosynthesis and metabolism
+274,M00872,0.2,UHGP_ad,Mannose type O-glycan biosynthesis,Glycan biosynthesis and metabolism
+275,M00056,0,UHGP_ad,Mucin type O-glycan biosynthesis,Glycan biosynthesis and metabolism
+276,M00055,0.153846154,UHGP_ad,N-Glycan biosynthesis,Glycan biosynthesis and metabolism
+277,M00073,0.333333333,UHGP_ad,N-Glycan biosynthesis,Glycan biosynthesis and metabolism
+278,M00075,0.333333333,UHGP_ad,N-Glycan biosynthesis,Glycan biosynthesis and metabolism
+279,M00074,0.5,UHGP_ad,N-Glycan biosynthesis,Glycan biosynthesis and metabolism
+280,M00072,0,UHGP_ad,N-Glycan biosynthesis,Glycan biosynthesis and metabolism
+281,M00793,0,UHGP_ad,O-Antigen nucleotide sugar biosynthesis,Glycan biosynthesis and metabolism
+282,M00793,0,UHGP_ad,O-Antigen nucleotide sugar biosynthesis,Glycan biosynthesis and metabolism
+283,M00074,0.5,UHGP_ad,Various types of N-glycan biosynthesis,Glycan biosynthesis and metabolism
+284,M00072,0,UHGP_ad,Various types of N-glycan biosynthesis,Glycan biosynthesis and metabolism
+285,M00113,0.25,UHGP_ad,alpha-Linolenic acid metabolism,Lipid metabolism
+286,M00415,0.25,UHGP_ad,Biosynthesis of unsaturated fatty acids,Lipid metabolism
+287,M00861,1,UHGP_ad,Biosynthesis of unsaturated fatty acids,Lipid metabolism
+288,M00861,1,UHGP_ad,Biosynthesis of unsaturated fatty acids,Lipid metabolism
+289,M00067,0,UHGP_ad,Ether lipid metabolism,Lipid metabolism
+290,M00873,0.166666667,UHGP_ad,Fatty acid biosynthesis,Lipid metabolism
+291,M00874,0.166666667,UHGP_ad,Fatty acid biosynthesis,Lipid metabolism
+292,M00873,0.166666667,UHGP_ad,Fatty acid biosynthesis,Lipid metabolism
+293,M00874,0.166666667,UHGP_ad,Fatty acid biosynthesis,Lipid metabolism
+294,M00082,0,UHGP_ad,Fatty acid biosynthesis,Lipid metabolism
+295,M00083,0,UHGP_ad,Fatty acid biosynthesis,Lipid metabolism
+296,M00086,0,UHGP_ad,Fatty acid biosynthesis,Lipid metabolism
+297,M00087,0.333333333,UHGP_ad,Fatty acid degradation,Lipid metabolism
+298,M00086,0,UHGP_ad,Fatty acid degradation,Lipid metabolism
+299,M00415,0.25,UHGP_ad,Fatty acid elongation,Lipid metabolism
+300,M00085,0.666666667,UHGP_ad,Fatty acid elongation,Lipid metabolism
+301,M00089,0.25,UHGP_ad,Glycerolipid metabolism,Lipid metabolism
+302,M00098,0.5,UHGP_ad,Glycerolipid metabolism,Lipid metabolism
+303,M00092,0.333333333,UHGP_ad,Glycerophospholipid metabolism,Lipid metabolism
+304,M00090,0.333333333,UHGP_ad,Glycerophospholipid metabolism,Lipid metabolism
+305,M00091,1,UHGP_ad,Glycerophospholipid metabolism,Lipid metabolism
+306,M00093,0,UHGP_ad,Glycerophospholipid metabolism,Lipid metabolism
+307,M00106,0,UHGP_ad,Primary bile acid biosynthesis,Lipid metabolism
+308,M00104,0.166666667,UHGP_ad,Primary bile acid biosynthesis,Lipid metabolism
+309,M00862,0.333333333,UHGP_ad,Primary bile acid biosynthesis,Lipid metabolism
+310,M00862,0.333333333,UHGP_ad,Primary bile acid biosynthesis,Lipid metabolism
+311,M00067,0,UHGP_ad,Sphingolipid metabolism,Lipid metabolism
+312,M00066,0.5,UHGP_ad,Sphingolipid metabolism,Lipid metabolism
+313,M00094,0.5,UHGP_ad,Sphingolipid metabolism,Lipid metabolism
+314,M00099,0.6,UHGP_ad,Sphingolipid metabolism,Lipid metabolism
+315,M00100,0.5,UHGP_ad,Sphingolipid metabolism,Lipid metabolism
+316,M00103,0,UHGP_ad,Steroid biosynthesis,Lipid metabolism
+317,M00101,0.4,UHGP_ad,Steroid biosynthesis,Lipid metabolism
+318,M00102,0.6,UHGP_ad,Steroid biosynthesis,Lipid metabolism
+319,M00108,0,UHGP_ad,Steroid hormone biosynthesis,Lipid metabolism
+320,M00109,0,UHGP_ad,Steroid hormone biosynthesis,Lipid metabolism
+321,M00110,0.333333333,UHGP_ad,Steroid hormone biosynthesis,Lipid metabolism
+322,M00107,0.5,UHGP_ad,Steroid hormone biosynthesis,Lipid metabolism
+323,M00573,0.2,UHGP_ad,Biotin metabolism,Metabolism of cofactors and vitamins
+324,M00572,0.166666667,UHGP_ad,Biotin metabolism,Metabolism of cofactors and vitamins
+325,M00123,0,UHGP_ad,Biotin metabolism,Metabolism of cofactors and vitamins
+326,M00577,0,UHGP_ad,Biotin metabolism,Metabolism of cofactors and vitamins
+327,M00841,0,UHGP_ad,Folate biosynthesis,Metabolism of cofactors and vitamins
+328,M00842,0,UHGP_ad,Folate biosynthesis,Metabolism of cofactors and vitamins
+329,M00841,0,UHGP_ad,Folate biosynthesis,Metabolism of cofactors and vitamins
+330,M00842,0,UHGP_ad,Folate biosynthesis,Metabolism of cofactors and vitamins
+331,M00840,0.428571429,UHGP_ad,Folate biosynthesis,Metabolism of cofactors and vitamins
+332,M00840,0.428571429,UHGP_ad,Folate biosynthesis,Metabolism of cofactors and vitamins
+333,M00843,0.333333333,UHGP_ad,Folate biosynthesis,Metabolism of cofactors and vitamins
+334,M00843,0.333333333,UHGP_ad,Folate biosynthesis,Metabolism of cofactors and vitamins
+335,M00126,0,UHGP_ad,Folate biosynthesis,Metabolism of cofactors and vitamins
+336,M00810,0.6,UHGP_ad,Nicotinate and nicotinamide metabolism,Metabolism of cofactors and vitamins
+337,M00810,0.6,UHGP_ad,Nicotinate and nicotinamide metabolism,Metabolism of cofactors and vitamins
+338,M00811,1,UHGP_ad,Nicotinate and nicotinamide metabolism,Metabolism of cofactors and vitamins
+339,M00811,1,UHGP_ad,Nicotinate and nicotinamide metabolism,Metabolism of cofactors and vitamins
+340,M00622,0.666666667,UHGP_ad,Nicotinate and nicotinamide metabolism,Metabolism of cofactors and vitamins
+341,M00115,0,UHGP_ad,Nicotinate and nicotinamide metabolism,Metabolism of cofactors and vitamins
+342,M00141,0.5,UHGP_ad,One carbon pool by folate,Metabolism of cofactors and vitamins
+343,M00126,0,UHGP_ad,One carbon pool by folate,Metabolism of cofactors and vitamins
+344,M00140,0,UHGP_ad,One carbon pool by folate,Metabolism of cofactors and vitamins
+345,M00019,0,UHGP_ad,Pantothenate and CoA biosynthesis,Metabolism of cofactors and vitamins
+346,M00119,0,UHGP_ad,Pantothenate and CoA biosynthesis,Metabolism of cofactors and vitamins
+347,M00120,0,UHGP_ad,Pantothenate and CoA biosynthesis,Metabolism of cofactors and vitamins
+348,M00836,1,UHGP_ad,Porphyrin metabolism Title changed!,Metabolism of cofactors and vitamins
+349,M00836,1,UHGP_ad,Porphyrin metabolism Title changed!,Metabolism of cofactors and vitamins
+350,M00868,0.375,UHGP_ad,Porphyrin metabolism Title changed!,Metabolism of cofactors and vitamins
+351,M00868,0.375,UHGP_ad,Porphyrin metabolism Title changed!,Metabolism of cofactors and vitamins
+352,M00847,0.333333333,UHGP_ad,Porphyrin metabolism Title changed!,Metabolism of cofactors and vitamins
+353,M00847,0.333333333,UHGP_ad,Porphyrin metabolism Title changed!,Metabolism of cofactors and vitamins
+354,M00121,0.2,UHGP_ad,Porphyrin metabolism Title changed!,Metabolism of cofactors and vitamins
+355,M00122,0,UHGP_ad,Porphyrin metabolism Title changed!,Metabolism of cofactors and vitamins
+356,M00846,0,UHGP_ad,Porphyrin metabolism Title changed!,Metabolism of cofactors and vitamins
+357,M00846,0,UHGP_ad,Porphyrin metabolism Title changed!,Metabolism of cofactors and vitamins
+358,M00125,0,UHGP_ad,Riboflavin metabolism,Metabolism of cofactors and vitamins
+359,M00127,0.5,UHGP_ad,Thiamine metabolism,Metabolism of cofactors and vitamins
+360,M00128,0.666666667,UHGP_ad,Ubiquinone and other terpenoid-quinone biosynthesis,Metabolism of cofactors and vitamins
+361,M00112,0.75,UHGP_ad,Ubiquinone and other terpenoid-quinone biosynthesis,Metabolism of cofactors and vitamins
+362,M00117,0.444444444,UHGP_ad,Ubiquinone and other terpenoid-quinone biosynthesis,Metabolism of cofactors and vitamins
+363,M00116,0,UHGP_ad,Ubiquinone and other terpenoid-quinone biosynthesis,Metabolism of cofactors and vitamins
+364,M00124,0.666666667,UHGP_ad,Vitamin B6 metabolism,Metabolism of cofactors and vitamins
+365,M00013,0.2,UHGP_ad,beta-Alanine metabolism,Metabolism of other amino acids
+366,M00369,0,UHGP_ad,Cyanoamino acid metabolism,Metabolism of other amino acids
+367,M00118,0.5,UHGP_ad,Glutathione metabolism,Metabolism of other amino acids
+368,M00579,0,UHGP_ad,Taurine and hypotaurine metabolism,Metabolism of other amino acids
+369,M00775,0,UHGP_ad,"Biosynthesis of 12-, 14- and 16-membered macrolides",Metabolism of terpenoids and polyketides
+370,M00776,0,UHGP_ad,"Biosynthesis of 12-, 14- and 16-membered macrolides",Metabolism of terpenoids and polyketides
+371,M00775,0,UHGP_ad,"Biosynthesis of 12-, 14- and 16-membered macrolides",Metabolism of terpenoids and polyketides
+372,M00776,0,UHGP_ad,"Biosynthesis of 12-, 14- and 16-membered macrolides",Metabolism of terpenoids and polyketides
+373,M00773,0,UHGP_ad,"Biosynthesis of 12-, 14- and 16-membered macrolides",Metabolism of terpenoids and polyketides
+374,M00773,0,UHGP_ad,"Biosynthesis of 12-, 14- and 16-membered macrolides",Metabolism of terpenoids and polyketides
+375,M00777,0.4,UHGP_ad,"Biosynthesis of 12-, 14- and 16-membered macrolides",Metabolism of terpenoids and polyketides
+376,M00777,0.4,UHGP_ad,"Biosynthesis of 12-, 14- and 16-membered macrolides",Metabolism of terpenoids and polyketides
+377,M00774,0.5,UHGP_ad,"Biosynthesis of 12-, 14- and 16-membered macrolides",Metabolism of terpenoids and polyketides
+378,M00774,0.5,UHGP_ad,"Biosynthesis of 12-, 14- and 16-membered macrolides",Metabolism of terpenoids and polyketides
+379,M00826,0,UHGP_ad,Biosynthesis of enediyne antibiotics,Metabolism of terpenoids and polyketides
+380,M00831,0,UHGP_ad,Biosynthesis of enediyne antibiotics,Metabolism of terpenoids and polyketides
+381,M00832,0,UHGP_ad,Biosynthesis of enediyne antibiotics,Metabolism of terpenoids and polyketides
+382,M00826,0,UHGP_ad,Biosynthesis of enediyne antibiotics,Metabolism of terpenoids and polyketides
+383,M00831,0,UHGP_ad,Biosynthesis of enediyne antibiotics,Metabolism of terpenoids and polyketides
+384,M00832,0,UHGP_ad,Biosynthesis of enediyne antibiotics,Metabolism of terpenoids and polyketides
+385,M00827,0.4,UHGP_ad,Biosynthesis of enediyne antibiotics,Metabolism of terpenoids and polyketides
+386,M00827,0.4,UHGP_ad,Biosynthesis of enediyne antibiotics,Metabolism of terpenoids and polyketides
+387,M00830,0.5,UHGP_ad,Biosynthesis of enediyne antibiotics,Metabolism of terpenoids and polyketides
+388,M00830,0.5,UHGP_ad,Biosynthesis of enediyne antibiotics,Metabolism of terpenoids and polyketides
+389,M00833,0.6,UHGP_ad,Biosynthesis of enediyne antibiotics,Metabolism of terpenoids and polyketides
+390,M00834,0.6,UHGP_ad,Biosynthesis of enediyne antibiotics,Metabolism of terpenoids and polyketides
+391,M00833,0.6,UHGP_ad,Biosynthesis of enediyne antibiotics,Metabolism of terpenoids and polyketides
+392,M00834,0.6,UHGP_ad,Biosynthesis of enediyne antibiotics,Metabolism of terpenoids and polyketides
+393,M00828,0.666666667,UHGP_ad,Biosynthesis of enediyne antibiotics,Metabolism of terpenoids and polyketides
+394,M00829,0.666666667,UHGP_ad,Biosynthesis of enediyne antibiotics,Metabolism of terpenoids and polyketides
+395,M00828,0.666666667,UHGP_ad,Biosynthesis of enediyne antibiotics,Metabolism of terpenoids and polyketides
+396,M00829,0.666666667,UHGP_ad,Biosynthesis of enediyne antibiotics,Metabolism of terpenoids and polyketides
+397,M00824,1,UHGP_ad,Biosynthesis of enediyne antibiotics,Metabolism of terpenoids and polyketides
+398,M00825,1,UHGP_ad,Biosynthesis of enediyne antibiotics,Metabolism of terpenoids and polyketides
+399,M00824,1,UHGP_ad,Biosynthesis of enediyne antibiotics,Metabolism of terpenoids and polyketides
+400,M00825,1,UHGP_ad,Biosynthesis of enediyne antibiotics,Metabolism of terpenoids and polyketides
+401,M00778,0.666666667,UHGP_ad,Biosynthesis of type II polyketide backbone,Metabolism of terpenoids and polyketides
+402,M00778,0.666666667,UHGP_ad,Biosynthesis of type II polyketide backbone,Metabolism of terpenoids and polyketides
+403,M00782,0,UHGP_ad,Biosynthesis of type II polyketide products,Metabolism of terpenoids and polyketides
+404,M00782,0,UHGP_ad,Biosynthesis of type II polyketide products,Metabolism of terpenoids and polyketides
+405,M00784,0,UHGP_ad,Biosynthesis of type II polyketide products,Metabolism of terpenoids and polyketides
+406,M00784,0,UHGP_ad,Biosynthesis of type II polyketide products,Metabolism of terpenoids and polyketides
+407,M00781,0.25,UHGP_ad,Biosynthesis of type II polyketide products,Metabolism of terpenoids and polyketides
+408,M00781,0.25,UHGP_ad,Biosynthesis of type II polyketide products,Metabolism of terpenoids and polyketides
+409,M00780,0.285714286,UHGP_ad,Biosynthesis of type II polyketide products,Metabolism of terpenoids and polyketides
+410,M00780,0.285714286,UHGP_ad,Biosynthesis of type II polyketide products,Metabolism of terpenoids and polyketides
+411,M00823,0.375,UHGP_ad,Biosynthesis of type II polyketide products,Metabolism of terpenoids and polyketides
+412,M00823,0.375,UHGP_ad,Biosynthesis of type II polyketide products,Metabolism of terpenoids and polyketides
+413,M00783,0.5,UHGP_ad,Biosynthesis of type II polyketide products,Metabolism of terpenoids and polyketides
+414,M00783,0.5,UHGP_ad,Biosynthesis of type II polyketide products,Metabolism of terpenoids and polyketides
+415,M00779,0.75,UHGP_ad,Biosynthesis of type II polyketide products,Metabolism of terpenoids and polyketides
+416,M00779,0.75,UHGP_ad,Biosynthesis of type II polyketide products,Metabolism of terpenoids and polyketides
+417,M00371,0,UHGP_ad,Brassinosteroid biosynthesis,Metabolism of terpenoids and polyketides
+418,M00372,0.166666667,UHGP_ad,Carotenoid biosynthesis,Metabolism of terpenoids and polyketides
+419,M00097,0.666666667,UHGP_ad,Carotenoid biosynthesis,Metabolism of terpenoids and polyketides
+420,M00795,0.333333333,UHGP_ad,Polyketide sugar unit biosynthesis,Metabolism of terpenoids and polyketides
+421,M00796,0.333333333,UHGP_ad,Polyketide sugar unit biosynthesis,Metabolism of terpenoids and polyketides
+422,M00795,0.333333333,UHGP_ad,Polyketide sugar unit biosynthesis,Metabolism of terpenoids and polyketides
+423,M00796,0.333333333,UHGP_ad,Polyketide sugar unit biosynthesis,Metabolism of terpenoids and polyketides
+424,M00794,0.5,UHGP_ad,Polyketide sugar unit biosynthesis,Metabolism of terpenoids and polyketides
+425,M00794,0.5,UHGP_ad,Polyketide sugar unit biosynthesis,Metabolism of terpenoids and polyketides
+426,M00803,0.25,UHGP_ad,Polyketide sugar unit biosynthesis,Metabolism of terpenoids and polyketides
+427,M00803,0.25,UHGP_ad,Polyketide sugar unit biosynthesis,Metabolism of terpenoids and polyketides
+428,M00801,0,UHGP_ad,Polyketide sugar unit biosynthesis,Metabolism of terpenoids and polyketides
+429,M00801,0,UHGP_ad,Polyketide sugar unit biosynthesis,Metabolism of terpenoids and polyketides
+430,M00802,0.4,UHGP_ad,Polyketide sugar unit biosynthesis,Metabolism of terpenoids and polyketides
+431,M00802,0.4,UHGP_ad,Polyketide sugar unit biosynthesis,Metabolism of terpenoids and polyketides
+432,M00797,1,UHGP_ad,Polyketide sugar unit biosynthesis,Metabolism of terpenoids and polyketides
+433,M00797,1,UHGP_ad,Polyketide sugar unit biosynthesis,Metabolism of terpenoids and polyketides
+434,M00800,0.8,UHGP_ad,Polyketide sugar unit biosynthesis,Metabolism of terpenoids and polyketides
+435,M00800,0.8,UHGP_ad,Polyketide sugar unit biosynthesis,Metabolism of terpenoids and polyketides
+436,M00798,0.6,UHGP_ad,Polyketide sugar unit biosynthesis,Metabolism of terpenoids and polyketides
+437,M00799,0.6,UHGP_ad,Polyketide sugar unit biosynthesis,Metabolism of terpenoids and polyketides
+438,M00798,0.6,UHGP_ad,Polyketide sugar unit biosynthesis,Metabolism of terpenoids and polyketides
+439,M00799,0.6,UHGP_ad,Polyketide sugar unit biosynthesis,Metabolism of terpenoids and polyketides
+440,M00793,0,UHGP_ad,Polyketide sugar unit biosynthesis,Metabolism of terpenoids and polyketides
+441,M00793,0,UHGP_ad,Polyketide sugar unit biosynthesis,Metabolism of terpenoids and polyketides
+442,M00367,0,UHGP_ad,Terpenoid backbone biosynthesis,Metabolism of terpenoids and polyketides
+443,M00366,0,UHGP_ad,Terpenoid backbone biosynthesis,Metabolism of terpenoids and polyketides
+444,M00365,0.5,UHGP_ad,Terpenoid backbone biosynthesis,Metabolism of terpenoids and polyketides
+445,M00849,0.333333333,UHGP_ad,Terpenoid backbone biosynthesis,Metabolism of terpenoids and polyketides
+446,M00849,0.333333333,UHGP_ad,Terpenoid backbone biosynthesis,Metabolism of terpenoids and polyketides
+447,M00095,0.285714286,UHGP_ad,Terpenoid backbone biosynthesis,Metabolism of terpenoids and polyketides
+448,M00096,0,UHGP_ad,Terpenoid backbone biosynthesis,Metabolism of terpenoids and polyketides
+449,M00364,0,UHGP_ad,Terpenoid backbone biosynthesis,Metabolism of terpenoids and polyketides
+450,M00780,0.285714286,UHGP_ad,Tetracycline biosynthesis,Metabolism of terpenoids and polyketides
+451,M00780,0.285714286,UHGP_ad,Tetracycline biosynthesis,Metabolism of terpenoids and polyketides
+452,M00823,0.375,UHGP_ad,Tetracycline biosynthesis,Metabolism of terpenoids and polyketides
+453,M00823,0.375,UHGP_ad,Tetracycline biosynthesis,Metabolism of terpenoids and polyketides
+454,M00778,0.666666667,UHGP_ad,Tetracycline biosynthesis,Metabolism of terpenoids and polyketides
+455,M00778,0.666666667,UHGP_ad,Tetracycline biosynthesis,Metabolism of terpenoids and polyketides
+456,M00005,0,UHGP_ad,Purine metabolism,Nucleotide metabolism
