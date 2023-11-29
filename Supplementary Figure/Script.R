@@ -116,7 +116,8 @@ library(vegan)
 Blautia_A_k <- read.table('Fig S5C_Blautia_A_know.csv',header = T,row.names = 1,sep=",",quote = "")
 Blautia_A_k[is.na(Blautia_A_k)]<-0
 Blautia_A_k = data.frame(t(Blautia_A_k))
-Blautia_A <- read.table('Fig S5C_Blautia_A.csv',header = T,row.names = 1,sep=",",quote = "")
+Blautia_A <- read.table('Source data/Fig S5C_Blautia_A_1.csv',header = T,row.names = 1,sep=",",quote = "")
+Blautia_A[is.na(Blautia_A)] <- 0
 Blautia_A = data.frame(t(Blautia_A))
 Coprococcus_k <- read.table('Fig S5C_Coprococcus_know.csv',header = T,row.names = 1,sep=",")
 Coprococcus_k = data.frame(t(Coprococcus_k))
