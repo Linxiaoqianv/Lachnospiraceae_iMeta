@@ -1,116 +1,116 @@
-genus,group,value
-Abyssivirga,match_species,0
-Acetatifactor,match_species,0
-Acetitomaculum,match_species,0
-Agathobacter,match_species,0
-Anaerobium,match_species,0
-Anaerobutyricum,match_species,3
-Anaerocolumna,match_species,0
-Anaerosacchariphilus,match_species,0
-Anaerostipes,match_species,13
-Anaerotaenia,match_species,0
-Anaerotignum,match_species,3
-Blautia,match_species,64
-Butyrivibrio,match_species,0
-Catenibacillus,match_species,0
-Catonella,match_species,0
-Cellulosilyticum,match_species,0
-Coprococcus,match_species,14
-Cuneatibacter,match_species,0
-Dorea,match_species,13
-Eisenbergiella,match_species,3
-Enterocloster,match_species,5
-Extibacter,match_species,0
-Faecalicatena,match_species,2
-Faecalimonas,match_species,16
-Falcatimonas,match_species,0
-Frisingicoccus,match_species,0
-Fusicatenibacter,match_species,27
-Herbinix,match_species,0
-Hespellia,match_species,0
-Howardella,match_species,0
-Johnsonella,match_species,0
-Kineothrix,match_species,0
-Lachnoanaerobaculum,match_species,0
-Lachnobacterium,match_species,0
-Lachnospira,match_species,0
-Lachnotalea,match_species,0
-Lacrimispora,match_species,0
-Mediterraneibacter,match_species,42
-Merdimonas,match_species,1
-Mobilisporobacter,match_species,0
-Mobilitalea,match_species,0
-Moryella,match_species,0
-Muricomes,match_species,0
-Murimonas,match_species,0
-Natranaerovirga,match_species,0
-Oribacterium,match_species,0
-Parasporobacterium,match_species,0
-Pseudobutyrivibrio,match_species,0
-Robinsoniella,match_species,1
-Roseburia,match_species,9
-Schaedlerella,match_species,0
-Sellimonas,match_species,8
-Shuttleworthia,match_species,1
-Sporobacterium,match_species,0
-Sporofaciens,match_species,0
-Stomatobaculum,match_species,0
-Syntrophococcus,match_species,0
-Abyssivirga,potential-new-species,0
-Acetatifactor,potential-new-species,0
-Acetitomaculum,potential-new-species,0
-Agathobacter,potential-new-species,36
-Anaerobium,potential-new-species,0
-Anaerobutyricum,potential-new-species,3
-Anaerocolumna,potential-new-species,0
-Anaerosacchariphilus,potential-new-species,5
-Anaerostipes,potential-new-species,2
-Anaerotaenia,potential-new-species,0
-Anaerotignum,potential-new-species,0
-Blautia,potential-new-species,87
-Butyrivibrio,potential-new-species,0
-Catenibacillus,potential-new-species,0
-Catonella,potential-new-species,0
-Cellulosilyticum,potential-new-species,0
-Coprococcus,potential-new-species,20
-Cuneatibacter,potential-new-species,1
-Dorea,potential-new-species,28
-Eisenbergiella,potential-new-species,6
-Enterocloster,potential-new-species,21
-Extibacter,potential-new-species,1
-Faecalicatena,potential-new-species,53
-Faecalimonas,potential-new-species,10
-Falcatimonas,potential-new-species,0
-Frisingicoccus,potential-new-species,0
-Fusicatenibacter,potential-new-species,0
-Herbinix,potential-new-species,0
-Hespellia,potential-new-species,0
-Howardella,potential-new-species,0
-Johnsonella,potential-new-species,0
-Kineothrix,potential-new-species,0
-Lachnoanaerobaculum,potential-new-species,0
-Lachnobacterium,potential-new-species,0
-Lachnospira,potential-new-species,16
-Lachnotalea,potential-new-species,1
-Lacrimispora,potential-new-species,34
-Mediterraneibacter,potential-new-species,7
-Merdimonas,potential-new-species,0
-Mobilisporobacter,potential-new-species,0
-Mobilitalea,potential-new-species,0
-Moryella,potential-new-species,0
-Muricomes,potential-new-species,0
-Murimonas,potential-new-species,0
-Natranaerovirga,potential-new-species,0
-Oribacterium,potential-new-species,0
-Parasporobacterium,potential-new-species,0
-Pseudobutyrivibrio,potential-new-species,0
-Robinsoniella,potential-new-species,0
-Roseburia,potential-new-species,31
-Schaedlerella,potential-new-species,0
-Sellimonas,potential-new-species,0
-Shuttleworthia,potential-new-species,0
-Sporobacterium,potential-new-species,0
-Sporofaciens,potential-new-species,0
-Stomatobaculum,potential-new-species,0
-Syntrophococcus,potential-new-species,0
-potential-new-genus,potential-new-genus,168
+genus,group,value,textcolor
+Abyssivirga,Matched species,0,'#999999'
+Acetatifactor,Matched species,0,'black'
+Acetitomaculum,Matched species,0,'#ff66cc'
+Anaerobium,Matched species,0,'#ff66cc'
+Anaerocolumna,Matched species,0,'#ff66cc'
+Anaerotaenia,Matched species,0,'#ff66cc'
+Butyrivibrio,Matched species,0,'black'
+Catenibacillus,Matched species,0,'black'
+Catonella,Matched species,0,'#ff66cc'
+Cellulosilyticum,Matched species,0,'#ff66cc'
+Falcatimonas,Matched species,0,'#999999'
+Frisingicoccus,Matched species,0,'#ff66cc'
+Herbinix,Matched species,0,'#ff66cc'
+Hespellia,Matched species,0,'#ff66cc'
+Howardella,Matched species,0,'#999999'
+Johnsonella,Matched species,0,'#ff66cc'
+Kineothrix,Matched species,0,'#ff66cc'
+Lachnoanaerobaculum,Matched species,0,'#ff66cc'
+Lachnobacterium,Matched species,0,'#ff66cc'
+Mobilisporobacter,Matched species,0,'#ff66cc'
+Mobilitalea,Matched species,0,'#ff66cc'
+Moryella,Matched species,0,'#ff66cc'
+Muricomes,Matched species,0,'#ff66cc'
+Murimonas,Matched species,0,'black'
+Natranaerovirga,Matched species,0,'#ff66cc'
+Oribacterium,Matched species,0,'#ff66cc'
+Parasporobacterium,Matched species,0,'#ff66cc'
+Pseudobutyrivibrio,Matched species,0,'#ff66cc'
+Schaedlerella,Matched species,0,'#ff66cc'
+Sporobacterium,Matched species,0,'#999999'
+Sporofaciens,Matched species,0,'#ff66cc'
+Stomatobaculum,Matched species,0,'#ff66cc'
+Syntrophococcus,Matched species,0,'#999999'
+Cuneatibacter,Matched species,0,'#ff66cc'
+Extibacter,Matched species,0,'black'
+Lachnotalea,Matched species,0,'#ff66cc'
+Merdimonas,Matched species,1,'black'
+Robinsoniella,Matched species,1,'black'
+Shuttleworthia,Matched species,1,'#ff66cc'
+Anaerotignum,Matched species,3,'black'
+Anaerosacchariphilus,Matched species,0,'black'
+Anaerobutyricum,Matched species,3,'black'
+Sellimonas,Matched species,8,'black'
+Eisenbergiella,Matched species,3,'black'
+Anaerostipes,Matched species,13,'black'
+Lachnospira,Matched species,0,'black'
+Enterocloster,Matched species,5,'black'
+Faecalimonas,Matched species,16,'black'
+Fusicatenibacter,Matched species,27,'black'
+Coprococcus,Matched species,14,'black'
+Lacrimispora,Matched species,0,'black'
+Agathobacter,Matched species,0,'black'
+Roseburia,Matched species,9,'black'
+Dorea,Matched species,13,'black'
+Mediterraneibacter,Matched species,42,'black'
+Faecalicatena,Matched species,2,'black'
+Blautia,Matched species,64,'black'
+potential-new-genus,Potential new genera,168,'black'
+Abyssivirga,Potential new species,0,'#999999'
+Acetatifactor,Potential new species,0,'black'
+Acetitomaculum,Potential new species,0,'#ff66cc'
+Anaerobium,Potential new species,0,'#ff66cc'
+Anaerocolumna,Potential new species,0,'#ff66cc'
+Anaerotaenia,Potential new species,0,'#ff66cc'
+Butyrivibrio,Potential new species,0,'black'
+Catenibacillus,Potential new species,0,'black'
+Catonella,Potential new species,0,'#ff66cc'
+Cellulosilyticum,Potential new species,0,'#ff66cc'
+Falcatimonas,Potential new species,0,'#999999'
+Frisingicoccus,Potential new species,0,'#ff66cc'
+Herbinix,Potential new species,0,'#ff66cc'
+Hespellia,Potential new species,0,'#ff66cc'
+Howardella,Potential new species,0,'#999999'
+Johnsonella,Potential new species,0,'#ff66cc'
+Kineothrix,Potential new species,0,'#ff66cc'
+Lachnoanaerobaculum,Potential new species,0,'#ff66cc'
+Lachnobacterium,Potential new species,0,'#ff66cc'
+Mobilisporobacter,Potential new species,0,'#ff66cc'
+Mobilitalea,Potential new species,0,'#ff66cc'
+Moryella,Potential new species,0,'#ff66cc'
+Muricomes,Potential new species,0,'#ff66cc'
+Murimonas,Potential new species,0,'black'
+Natranaerovirga,Potential new species,0,'#ff66cc'
+Oribacterium,Potential new species,0,'#ff66cc'
+Parasporobacterium,Potential new species,0,'#ff66cc'
+Pseudobutyrivibrio,Potential new species,0,'#ff66cc'
+Schaedlerella,Potential new species,0,'#ff66cc'
+Sporobacterium,Potential new species,0,'#999999'
+Sporofaciens,Potential new species,0,'#ff66cc'
+Stomatobaculum,Potential new species,0,'#ff66cc'
+Syntrophococcus,Potential new species,0,'#999999'
+Cuneatibacter,Potential new species,1,'#ff66cc'
+Extibacter,Potential new species,1,'black'
+Lachnotalea,Potential new species,1,'#ff66cc'
+Merdimonas,Potential new species,0,'black'
+Robinsoniella,Potential new species,0,'black'
+Shuttleworthia,Potential new species,0,'#ff66cc'
+Anaerotignum,Potential new species,0,'black'
+Anaerosacchariphilus,Potential new species,5,'black'
+Anaerobutyricum,Potential new species,3,'black'
+Sellimonas,Potential new species,0,'black'
+Eisenbergiella,Potential new species,6,'black'
+Anaerostipes,Potential new species,2,'black'
+Lachnospira,Potential new species,16,'black'
+Enterocloster,Potential new species,21,'black'
+Faecalimonas,Potential new species,10,'black'
+Fusicatenibacter,Potential new species,0,'black'
+Coprococcus,Potential new species,20,'black'
+Lacrimispora,Potential new species,34,'black'
+Agathobacter,Potential new species,36,'black'
+Roseburia,Potential new species,31,'black'
+Dorea,Potential new species,28,'black'
+Mediterraneibacter,Potential new species,7,'black'
+Faecalicatena,Potential new species,53,'black'
+Blautia,Potential new species,87,'black'

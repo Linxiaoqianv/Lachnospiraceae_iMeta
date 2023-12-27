@@ -1,5 +1,7 @@
 library(ggplot2)
 library(ggforce)
+library(ggpubr)
+library(RColorBrewer)
 
 #Figure S1
 DDH  <- read.csv("Fig S1.csv",header = T,sep=",")
@@ -14,21 +16,23 @@ ggplot(DDH, aes(x=cluster, y=DDH)) +
                outlier.color = "black")+
   theme(panel.grid=element_blank(),
         axis.title.y = element_text(face = 'bold',color = 'black',size = 12),
-        axis.title.x = element_blank(),
+        axis.title.x = element_text(face = 'bold',color = 'black',size = 12),
         axis.text.y = element_text(color = 'black',size = 5),
         axis.text.x = element_text(color = 'black',size = 8),
         legend.position = 'right',
         legend.text = element_text(size = 8))+
   geom_hline(aes(yintercept=70), colour="black", linetype="dashed")+
-  labs(y="DDH")
+  labs(y="dDDH (%)",x="Cluster ID")
 
 #Figure S2
 library(gcookbook)
 genome<- read.table("Fig S2.csv",header = T,sep=",",row.names = 1)
+genome$group <- factor(genome$group,levels = c('N','A','16Sl','ANIl','Discrete'),
+                       labels = c('ANI ≤ 95 and similarity ≤ 98.7','ANI ≥ 95 and similarity ≥ 98.7','ANI ≥ 95 and similarity ≤ 98.7','ANI ≤ 95 and similarity ≥ 98.7','Discrete'))
 ggplot(genome, aes(x=ANI, y=X16S,color=group))+ 
   geom_point(alpha=0.5)+
   scale_color_manual(values=c("grey","#e7298a","#1b9e77","#d95f02","#7570b3"),
-                     breaks = c('N','A','16Sl','ANIl','Discrete'))+
+                     breaks = c('ANI ≤ 95 and similarity ≤ 98.7','ANI ≥ 95 and similarity ≥ 98.7','ANI ≥ 95 and similarity ≤ 98.7','ANI ≤ 95 and similarity ≥ 98.7','Discrete'))+
   theme_bw()+
   geom_hline(aes(yintercept=98.7), colour="black", linetype="dashed")+
   geom_vline(aes(xintercept=95), colour="black", linetype="dashed")+
@@ -39,9 +43,8 @@ ggplot(genome, aes(x=ANI, y=X16S,color=group))+
         legend.text = element_text(face = 'bold',color = 'black',size = 10),
         panel.background = element_rect(colour = "grey"),
         legend.position="top")+
-  facet_zoom(x = group=='16Sl',y = group=='ANIl',split = TRUE,zoom.size=1)+
-  facet_zoom(y = group=='ANIl',split = TRUE,zoom.size=1)+
-  facet_zoom(y = group=='A',split = TRUE,zoom.size=1)
+  facet_zoom(xy = group=='ANI ≥ 95 and similarity ≥ 98.7',split = TRUE,zoom.size=1)+
+  labs(x="ANI with type strain (%)",y="16S rRNA gene sequence similarity with type strain (%)")
 
 #Figure S3
 library(vcd)
@@ -62,11 +65,13 @@ ggplot() +
   coord_flip()+
   scale_fill_manual(
     values = c('new'="red",'know'="green"))+
-  labs(x="Species", y="LDA score (log 10)")+
+  labs(y="LDA score (log 10)")+
   theme(panel.grid = element_blank(),
         axis.title.y = element_blank(),
-        #axis.text.y = element_blank(),
-        plot.title=element_text(hjust=0.5))
+        axis.text.x = element_blank(),
+        plot.title=element_text(hjust=0.5),
+        legend.position = 'top',
+        legend.title=element_blank())
 
 #Fig S5A
 genus<- read.table("Fig S5A.csv",header = T,sep=",",row.names = 1)
@@ -96,19 +101,20 @@ ggplot(data,aes(x=reorder(genus,-number),y=number,fill=group))+
   scale_fill_manual(values = c("#998ec3", "#f1a340"))+
   theme_bw()+
   theme(legend.position = 'top',
+        panel.grid = element_blank(),
         axis.text.x = element_text(color = 'black',size = 8),
         axis.title.y = element_text(face = 'bold',color = 'black',size = 14,vjust=2),
-        axis.title.x = element_text(face = 'bold',color = 'black',size = 14,vjust = 0),
+        axis.title.x = element_blank(),
         axis.text.y = element_text(color = 'black',size = 8),
         legend.text = element_text(face = 'bold',color = 'black',size = 8),
         panel.background = element_rect(colour = "grey"))+
-  scale_y_continuous(breaks = seq(0, 300, by = 50))
+  scale_y_continuous(breaks = seq(0, 300, by = 50))+
+  labs(y="Number of genomes")
 
 #Fig S5C
 library(readxl)
 library(ggplot2)
 library(micropan)
-library(ggplot2)
 library(tidyr)
 library(stringr)
 library(reshape2)
@@ -116,7 +122,7 @@ library(vegan)
 Blautia_A_k <- read.table('Fig S5C_Blautia_A_know.csv',header = T,row.names = 1,sep=",",quote = "")
 Blautia_A_k[is.na(Blautia_A_k)]<-0
 Blautia_A_k = data.frame(t(Blautia_A_k))
-Blautia_A <- read.table('Source data/Fig S5C_Blautia_A_1.csv',header = T,row.names = 1,sep=",",quote = "")
+Blautia_A <- read.table('Fig S5C_Blautia_A_1.csv',header = T,row.names = 1,sep=",",quote = "")
 Blautia_A[is.na(Blautia_A)] <- 0
 Blautia_A = data.frame(t(Blautia_A))
 Coprococcus_k <- read.table('Fig S5C_Coprococcus_know.csv',header = T,row.names = 1,sep=",")
@@ -173,7 +179,68 @@ ggplot(top10,mapping = aes(reorder(gene,-num),num,fill=type))+
   theme_bw()+
   scale_fill_manual(values=c("#fb8072","#fdb462","#80b1d3"))+
   labs(x = 'Gene',y = 'The number of variations') +
-  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+  theme(panel.grid = element_blank(),
+        axis.text.x = element_text(angle = 45, hjust = 1))
+
+#Fig S6B
+bceB<- read.table("Fig S6B.csv",sep=",",header = T)
+c1 <- ggplot(bceB[1:1104,],aes(x=pos,fill=group,color=group))+
+  annotate("rect", xmin = 2941421, 
+           xmax = 2943464, 
+           ymin = 0, 
+           ymax = 1,
+           alpha = .2) +
+  geom_freqpoly(aes(pos,..count../21),binwidth=1,alpha = 1) + 
+  scale_color_manual(values=c("#fc8d62"))+
+  theme_bw()+
+  theme(panel.grid=element_blank())+
+  scale_x_continuous(labels = scales::label_comma())+
+  labs(x="Genomic position",y="Density")+
+  geom_vline(aes(xintercept=2943302), colour="black", linetype="dashed")+
+  guides(fill=guide_legend("Clade"),color=guide_legend("Variant type"))
+c2 <- ggplot(bceB[1105:1406,],aes(x=pos,fill=group,color=group))+
+  annotate("rect", xmin = 2941421, 
+           xmax = 2943464, 
+           ymin = 0, 
+           ymax = 1,
+           alpha = .2) +
+  geom_freqpoly(aes(pos,..count../8),binwidth=1,alpha = 1) + 
+  scale_color_manual(values=c("#66c2a5"))+
+  theme_bw()+
+  theme(panel.grid=element_blank())+
+  scale_x_continuous(labels = scales::label_comma())+
+  labs(x="Genomic position",y="Density")+
+  geom_vline(aes(xintercept=2943302), colour="black", linetype="dashed")+
+  guides(fill=guide_legend("Clade"),color=guide_legend("Variant type"))
+c3 <- ggplot(bceB[1407:3121,],aes(x=pos,fill=group,color=group))+
+  annotate("rect", xmin = 2941421, 
+           xmax = 2943464, 
+           ymin = 0, 
+           ymax = 1,
+           alpha = .2) +
+  geom_freqpoly(aes(pos,..count../28),binwidth=1,alpha = 1) + 
+  scale_color_manual(values=c("#8da0cb"))+
+  theme_bw()+
+  theme(panel.grid=element_blank())+
+  scale_x_continuous(labels = scales::label_comma())+
+  labs(x="Genomic position",y="Density")+
+  geom_vline(aes(xintercept=2943302), colour="black", linetype="dashed")+
+  guides(fill=guide_legend("Clade"),color=guide_legend("Variant type"))
+c4 <- ggplot(bceB[3122:5257,],aes(x=pos,fill=group,color=group))+
+  annotate("rect", xmin = 2941421, 
+           xmax = 2943464, 
+           ymin = 0, 
+           ymax = 1,
+           alpha = .2) +
+  geom_freqpoly(aes(pos,..count../38),binwidth=1,alpha = 1) + 
+  scale_color_manual(values=c("#e78ac3"))+
+  theme_bw()+
+  theme(panel.grid=element_blank())+
+  scale_x_continuous(labels = scales::label_comma())+
+  labs(x="Genomic position",y="Density")+
+  geom_vline(aes(xintercept=2943302), colour="black", linetype="dashed")+
+  guides(fill=guide_legend("Clade"),color=guide_legend("Variant type"))
+ggarrange(c1,c2,c3,c4,ncol = 1, nrow = 4,align="hv")
 
 #Fig S7
 spore <- read.delim('Fig S7.csv', row.names = 1, sep = ',', stringsAsFactors = FALSE, check.names = FALSE)
@@ -212,19 +279,23 @@ logFC<- read.csv("Fig S8A_logfc.csv",sep=",",header = T)
 p1<-ggdotchart(logFC, x = "species", y = "logFC",
                color = "enrich",  
                palette = c("#00AFBB", "#FC4E07"), 
-               sorting = "ascending",                        
-               rotate = TRUE,
+               sorting = "ascending",  
+               rotate = F,
+               xlab = FALSE,
                dot.size = 2,
                add = "segments",                            
-               ggtheme = theme_pubr(),                  
-               xlab=""
-)
-p2 <-ggplot(ACVD_sig_frame, aes(x=reorder(species, rank), y = log10(abundance), fill = factor(group))) +
-  coord_flip()+
+               ggtheme = theme_pubr())+
+  theme(axis.text.x = element_blank())+
+  ylab(expression(paste(Log[2]," FC", sep = "")))
+p2<-ggplot(ACVD_sig_frame, aes(x=reorder(species, -rank), y = log10(abundance), fill = factor(group))) +
   theme_bw()+
   scale_fill_manual(values =c("#00AFBB", "#FC4E07" ))+
-  geom_boxplot()
-ggarrange(p2, p1, ncol = 2, nrow = 1,align="h",widths = c(3, 3),common.legend =TRUE)
+  geom_boxplot()+
+  theme(panel.grid = element_blank(),
+        axis.text.x = element_text(angle = 90, hjust = 1,vjust=.5),
+        axis.title.x = element_blank())+
+  ylab(expression(paste(Log[10]," (abundance)", sep = "")))
+ggarrange(p1, p2, ncol = 1, nrow = 2,align="v",heights = c(1, 3),common.legend =TRUE)
 
 #Fig S9A
 CD_sig_frame<- read.csv("Fig S9A_abun.csv",sep=",",header = T)
@@ -232,21 +303,25 @@ CD_sig_frame$group <- factor(CD_sig_frame$group,levels = c("CD","control"),order
 library(ggpubr)
 logFC<- read.csv("Fig S9A_logfc.csv",sep=",",header = T)
 p1<-ggdotchart(logFC, x = "species", y = "logFC",
-               color = "enrich",                           
-               palette = c("#00AFBB", "#FC4E07"),
-               sorting = "ascending",                        
-               rotate = TRUE,
+               color = "enrich",  
+               palette = c("#00AFBB", "#FC4E07"), 
+               sorting = "ascending",  
+               rotate = F,
+               xlab = FALSE,
                dot.size = 2,
                add = "segments",                            
-               ggtheme = theme_pubr(),                     
-               xlab=""
-)
-p2 <-ggplot(CD_sig_frame, aes(x=reorder(species, rank), y = log10(abundance), fill = factor(group))) +
-  coord_flip()+
+               ggtheme = theme_pubr())+
+  theme(axis.text.x = element_blank())+
+  ylab(expression(paste(Log[2]," FC", sep = "")))
+p2<-ggplot(CD_sig_frame, aes(x=reorder(species, -rank), y = log10(abundance), fill = factor(group))) +
   theme_bw()+
   scale_fill_manual(values =c("#00AFBB", "#FC4E07" ))+
-  geom_boxplot()
-ggarrange(p2, p1, ncol = 2, nrow = 1,align="h",widths = c(3, 3),common.legend =TRUE)
+  geom_boxplot()+
+  theme(panel.grid = element_blank(),
+        axis.text.x = element_text(angle = 90, hjust = 1,vjust=.5),
+        axis.title.x = element_blank())+
+  ylab(expression(paste(Log[10]," (abundance)", sep = "")))
+ggarrange(p1, p2, ncol = 1, nrow = 2,align="v",heights = c(1, 3),common.legend =TRUE)
 
 #Fig S10A
 UC_sig_frame<- read.csv("Fig S10A_abun.csv",sep=",",header = T)
@@ -254,18 +329,40 @@ UC_sig_frame$group <- factor(UC_sig_frame$group,levels = c("UC","control"),order
 library(ggpubr)
 logFC<- read.csv("Fig S10A_logfc.csv",sep=",",header = T)
 p1<-ggdotchart(logFC, x = "species", y = "logFC",
-               color = "enrich",                                
+               color = "enrich",  
                palette = c("#00AFBB", "#FC4E07"), 
-               sorting = "ascending",                        
-               rotate = TRUE,
+               sorting = "ascending",  
+               rotate = F,
+               xlab = FALSE,
                dot.size = 2,
                add = "segments",                            
-               ggtheme = theme_pubr(),                       
-               xlab=""
-)
-p2 <-ggplot(UC_sig_frame, aes(x=reorder(species, rank), y = log10(abundance), fill = factor(group))) +
-  coord_flip()+
+               ggtheme = theme_pubr())+
+  theme(axis.text.x = element_blank())+
+  ylab(expression(paste(Log[2]," FC", sep = "")))
+p2<-ggplot(UC_sig_frame, aes(x=reorder(species, -rank), y = log10(abundance), fill = factor(group))) +
   theme_bw()+
   scale_fill_manual(values =c("#00AFBB", "#FC4E07" ))+
-  geom_boxplot()
-ggarrange(p2, p1, ncol = 2, nrow = 1,align="h",widths = c(3, 3),common.legend =TRUE)
+  geom_boxplot()+
+  theme(panel.grid = element_blank(),
+        axis.text.x = element_text(angle = 90, hjust = 1,vjust=.5),
+        axis.title.x = element_blank())+
+  ylab(expression(paste(Log[10]," (abundance)", sep = "")))
+ggarrange(p1, p2, ncol = 1, nrow = 2,align="v",heights = c(1, 3),common.legend =TRUE)
+
+#Fig S11
+sig  <- read.csv("Fig S11.csv",header = T,sep=",")
+sig$type <- factor(sig$type,levels = c("know","novel"),labels = c("Know","Potentially novel"))
+ggplot(data = sig, mapping = aes(x = name, y = logFC,color=type)) + 
+  geom_point()+
+  theme_bw()+
+  facet_wrap(~ group,nrow=3)+
+  scale_color_manual(values=c("#2b83ba","#d7191c"),breaks = c("Know","Potentially novel"))+
+  theme(axis.text.x = element_text(color = 'black',size = 8,angle = 45, hjust = 1),
+        axis.title.y = element_text(face = 'bold',color = 'black',size = 10,vjust=2),
+        axis.title.x = element_blank(),
+        axis.text.y = element_text(color = 'black',size = 8),
+        panel.grid = element_blank(),
+        legend.position = 'top')+
+  ylab(expression(paste(Log[2]," FC", sep = "")))+
+  geom_hline(aes(yintercept=0), colour="black", linetype="dashed")+
+  guides(color=guide_legend("Cluster novelty"))
