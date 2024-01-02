@@ -16,7 +16,7 @@ Scripts for statistics and plotting figures in "Isolation of potentially novel s
 
 - ./Supplementary Figure # Source data and R scripts for each supplementary figure
     - The **Venn diagram** of Figure S4A, and S4D were drawn by the online tool [jvenn](https://jvenn.toulouse.inra.fr/app/example.html). The file is as follows.
-        - Figure S4A: ./Supplementary Figure/Source data/
+        - Figure S4A: ./Supplementary Figure/Source data/Fig S4A.txt
         - Figure S4D: ./Supplementary Figure/Source data/Fig S4C&D.csv
     - The **KEGG metabolic pathways** of Figure S4C was visualized in the online tool [iPath3](https://pathways.embl.de/tools.cgi) with "ID overlap" tool. The file is as follows.
         - Figure S4C: ./Supplementary Figure/Source data/Fig S4C&D.csv
