@@ -1,33 +1,34 @@
-﻿Country,number,ngroup,Continent
-United States,449,449,North America
-United Kingdom,226,226,Eurasia
-France,46,100,Eurasia
-China,800,800,Eurasia
-Canada,32,100,North America
-Czech Republic,27,100,Eurasia
-Germany,23,100,Eurasia
-Japan,19,100,Eurasia
-Australia,11,100,Oceania
-"Korea, Republic of",16,100,Eurasia
-Ireland,9,10,Eurasia
-Bangladesh,8,10,Eurasia
-Argentina,5,10,South America
-India,5,10,Eurasia
-New Zealand,4,10,Oceania
-Netherlands,4,10,Eurasia
-Sweden,3,10,Eurasia
-Switzerland,3,10,Eurasia
-Denmark,2,10,Eurasia
-Niger,2,10,Africa
-Russia,3,10,Eurasia
-Senegal,2,10,Africa
-Slovenia,2,10,Eurasia
-South Africa,2,10,Africa
-Belgium,1,10,Eurasia
-Chile,1,10,South America
-Finland,1,10,Eurasia
-Israel,1,10,Eurasia
-Saudi Arabia,1,10,Eurasia
-Singapore,1,10,Eurasia
-Spain,1,10,Eurasia
-Tunisia,1,10,Africa
+﻿Country,Continent,rank,Animal rumen,Animal other region,Environment,Human GI,Human oral,Human other region
+Tunisia,Africa,1,0,0,1,0,0,0
+Niger,Africa,2,0,0,0,2,0,0
+Senegal,Africa,3,0,0,1,1,0,0
+South Africa,Africa,4,2,0,0,0,0,0
+Israel,Asia,5,0,0,0,0,0,1
+Saudi Arabia,Asia,6,0,0,0,1,0,0
+Singapore,Asia,7,0,1,0,0,0,0
+India,Asia,8,3,0,2,0,0,0
+Bangladesh,Asia,9,0,0,0,8,0,0
+Republic of Korea,Asia,10,0,3,1,12,0,0
+Japan,Asia,11,2,1,6,10,0,0
+China,Asia,12,1,9,1,789,0,0
+Belgium,Europe,13,0,1,0,0,0,0
+Finland,Europe,14,0,0,0,1,0,0
+Spain,Europe,15,0,1,0,0,0,0
+Denmark,Europe,16,0,0,0,2,0,0
+Slovenia,Europe,17,2,0,0,0,0,0
+Russia,Europe,18,0,0,3,0,0,0
+Sweden,Europe,19,1,0,0,0,1,1
+Switzerland,Europe,20,0,3,0,0,0,0
+Netherlands,Europe,21,0,1,2,1,0,0
+Ireland,Europe,22,0,0,2,7,0,0
+Germany,Europe,23,0,12,5,5,0,1
+Czech Republic,Europe,24,3,24,0,0,0,0
+France,Europe,25,1,5,1,22,3,15
+United Kingdom,Europe,26,4,0,1,220,1,0
+Canada,North America,27,3,2,2,18,0,7
+United States,North America,28,11,23,8,388,17,2
+New Zealand,Oceania,29,3,0,1,0,0,0
+Australia,Oceania,30,6,3,2,0,0,0
+Chile,South America,31,0,0,0,1,0,0
+Argentina,South America,32,1,4,0,0,0,0
+N.A,N.A,33,93,12,5,37,3,6
